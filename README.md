@@ -14,7 +14,7 @@ bluevioletff69b49cf-->
 
 Hello!
 
-Welcome to my Data Science portfolio. I am currently a Data Science Graduate Student and also a Teaching Assitant for the Statistics for Data Science Course at UC Berkeley. Most of the projects in this porfolio were originated from the program.  
+Welcome to my Data Science portfolio. I am currently a Data Science Graduate Student (MIDS) and also a Teaching Assitant for the Statistics for Data Science Course at UC Berkeley. Most of the project topics in this porfolio were come up from my own ideas and originated from the MIDS program requirements.  
 
 <br>
 
@@ -29,4 +29,4 @@ Welcome to my Data Science portfolio. I am currently a Data Science Graduate Stu
 |                             Data Analysis                           |                                   SQL<br>BigQuery<br>Python                                   |      San Francisco   Bike Share: Business Recommendations     |
 |                             Data Analysis                           |                                             Python                                            |      Real Estate and   Academic Performance in Los Angeles    |
 |                           Data   Wrangling                          |                                             Python                                            |              Clinical Disease:   Harmful Mutations            |
-|                  Object Oriented   Programing (OOP)                 |                                             Python                                            |                  Game Design:   Kwaii Lottery                 |
+|                  Object Oriented   Programing (OOP)                 |                                             Python                                            |                  [Game Design:   Kwaii Lottery](https://github.com/latuyetmai/mla-folio/tree/projects/OOP_Python_Game_Kawaii_Lottery)                 |
