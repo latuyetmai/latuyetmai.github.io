@@ -14,9 +14,9 @@ bluevioletff69b49cf-->
 
 Hello!
 
-My name is Mai La and welcome to my Data Science portfolio. You are currently in the master branch with some brief overviews of my projects, to access the full projects, please navigate to the [projects branch](https://github.com/latuyetmai/portfolio/tree/projects).
+My name is Mai La and welcome to my Data Science portfolio. You are currently in the master branch with some brief overviews of my projects, to access the full projects. Please navigate to the [projects branch](https://github.com/latuyetmai/portfolio/tree/projects).
 
-Some projects were originated from the courses that I took from the Master of Information and Data Science degree (MIDS) at the University of Califorina, Berkeley. Therefore, the `projects` branch has been hidden from public to prevent future students from using search engines for their assignments.  
+Most projects were originated from the courses that I took from the Master of Information and Data Science degree (MIDS) at the University of Califorina, Berkeley. Therefore, the `projects` branch has been hidden to prevent future students from using search engines and copying.
 
 <br>
 
