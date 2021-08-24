@@ -14,16 +14,14 @@ bluevioletff69b49cf-->
 
 Hello!
 
-My name is Mai La and welcome to my Data Science portfolio. You are currently in the master branch with some brief overviews of my projects. To access the full projects, please navigate to the [projects branch](https://github.com/latuyetmai/portfolio/tree/projects).
-
-Most projects were originated from the courses that I took from the Master of Information and Data Science degree (MIDS) at the University of Califorina, Berkeley. Therefore, the `projects` branch has been hidden to prevent future students from using search engines and copying.
+Welcome to my Data Science portfolio. I am currently a Data Science Graduate Student and also a Teaching Assitant for the Statistics for Data Science Course at UC Berkeley. Most of the projects in this porfolio were originated from the program.  
 
 <br>
 
 # Project Preview
 
 |                              **Skills**                             |                                            **Tools**                                          |                           **Topics**                          |
-|:-------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-------------------------------------------------------------:|
+|---------------------------------------------------------------------|:---------------------------------------------------------------------------------------------:|---------------------------------------------------------------|
 |                    Statistics:   Causal Inference                   |                                                R                                              |             US Tourism   and COVID-19 Vaccinations            |
 |                   Statistics:   Hypothesis Testing                  |                                                R                                              |     2020 US   Election: Voters’ Demographics & Perspective    |
 |     Instrument API   Server, Streaming & Assemble Data Pipeline     |     Docker<br>Kafka<br>Flask<br>Spark<br>Python<br>Apache Bench<br>Presto<br>Hadoop           |             Understanding   User Behavior: Game API           |
