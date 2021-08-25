@@ -1,0 +1,509 @@
+schoolcode,zip,academicyear,aggregatelevel,countycode,districtcode,countyname,districtname,schoolname,charterschool,dass,reportingcategory,cohortstudents,regular_hs_diploma_graduates_count,regular_hs_diploma_graduates_rate,met_uc_csu_grad_reqs_count,met_uc_csu_grad_reqs_rate,seal_of_biliteracy_count,seal_of_biliteracy_rate,golden_state_seal_merit_diploma_count,golden_state_seal_merit_diploma_rate,chspe_completer_count,chspe_completer_rate,adult_ed_hs_diploma_count,adult_ed_hs_diploma_rate,sped_certificate_count,sped_certificate_rate,ged_completer_count,ged_completer_rate,other_transfer_count,other_transfer_rate,dropout_count,dropout_rate,still_enrolled_count,still_enrolled_rate
+100776,91352,2019-20,S,19,10199,Los Angeles,Los Angeles County Office of Education,North Valley Military Institute College Preparatory Academy,All,All,TA,69,65,94.2,65,100,7,10.8,8,12.3,0,0,0,0,0,0,0,0,2,2.9,0,0,2,2.9
+109942,90042,2019-20,S,19,77289,Los Angeles,SBE - Los Angeles College Prep Academy,Los Angeles College Prep Academy,All,All,TA,37,25,67.6,25,100,0,0,0,0,0,0,0,0,1,2.7,0,0,1,2.7,4,10.8,6,16.2
+112128,90255,2019-20,S,19,10199,Los Angeles,Los Angeles County Office of Education,Aspire Ollin University Preparatory Academy,All,All,TA,78,74,94.9,60,81.1,17,23,17,23,0,0,0,0,0,0,0,0,0,0,1,1.3,3,3.8
+115030,90746,2019-20,S,19,10199,Los Angeles,Los Angeles County Office of Education,Magnolia Science Academy 3,All,All,TA,55,53,96.4,51,96.2,3,5.7,10,18.9,0,0,0,0,0,0,0,0,0,0,2,3.6,0,0
+115212,91406,2019-20,S,19,10199,Los Angeles,Los Angeles County Office of Education,Magnolia Science Academy 2,All,All,TA,40,38,95.0,35,92.1,2,5.3,13,34.2,0,0,0,0,0,0,0,0,0,0,2,5,0,0
+121921,91750,2019-20,S,19,10199,Los Angeles,Los Angeles County Office of Education,Afflerbaugh-Paige Camp,All,All,TA,70,29,41.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,35.7,16,22.9
+121954,90265,2019-20,S,19,10199,Los Angeles,Los Angeles County Office of Education,Road to Success Academy at Campus Kilpatrick,All,All,TA,39,20,51.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,25.6,9,23.1
+127522,90042,2019-20,S,19,10199,Los Angeles,Los Angeles County Office of Education,Optimist Charter,All,All,TA,30,10,33.3,3,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,40,8,26.7
+134346,90813,2019-20,S,19,10199,Los Angeles,Los Angeles County Office of Education,Intellectual Virtues Academy,All,All,TA,32,28,87.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,12.5,0,0
+138669,90245,2019-20,S,19,10199,Los Angeles,Los Angeles County Office of Education,Da Vinci RISE High,All,All,TA,64,9,14.1,2,22.2,0,0,0,0,1,1.6,0,0,0,0,0,0,0,0,13,20.3,41,64.1
+1933399,90032,2019-20,S,19,10199,Los Angeles,Los Angeles County Office of Education,L.A. County High School for the Arts,All,All,TA,134,121,90.3,78,64.5,0,0,19,15.7,1,0.7,0,0,0,0,0,0,0,0,12,9,0,0
+1995869,91768,2019-20,S,19,10199,Los Angeles,Los Angeles County Office of Education,International Polytechnic High,All,All,TA,130,126,96.9,114,90.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3.1,0,0
+1996214,90250,2019-20,S,19,10199,Los Angeles,Los Angeles County Office of Education,Renaissance County Community,All,All,TA,102,32,31.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,25.5,44,43.1
+6119945,91335,2019-20,S,19,10199,Los Angeles,Los Angeles County Office of Education,Magnolia Science Academy,All,All,TA,65,65,100.0,55,84.6,13,20,18,27.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1930056,90703,2019-20,S,19,64212,Los Angeles,ABC Unified,Cerritos High,All,All,TA,530,509,96.0,355,69.7,155,30.5,163,32,2,0.4,0,0,10,1.9,0,0,5,0.9,4,0.8,0,0
+1930361,90715,2019-20,S,19,64212,Los Angeles,ABC Unified,Artesia High,All,All,TA,304,299,98.4,144,48.2,38,12.7,60,20.1,1,0.3,0,0,1,0.3,0,0,0,0,2,0.7,1,0.3
+1931880,90703,2019-20,S,19,64212,Los Angeles,ABC Unified,Whitney (Gretchen) High,All,All,TA,161,160,99.4,156,97.5,63,39.4,130,81.3,0,0,0,0,0,0,0,0,1,0.6,0,0,0,0
+1933159,90703,2019-20,S,19,64212,Los Angeles,ABC Unified,Gahr (Richard) High,All,All,TA,453,446,98.5,250,56.1,62,13.9,76,17,0,0,0,0,0,0,0,0,4,0.9,3,0.7,0,0
+100081,93552,2019-20,S,19,64246,Los Angeles,Antelope Valley Union High,William J. (Pete) Knight High,All,All,TA,673,570,84.7,86,15.1,58,10.2,0,0,0,0,0,0,2,0.3,0,0,2,0.3,46,6.8,53,7.9
+108407,93535,2019-20,S,19,64246,Los Angeles,Antelope Valley Union High,Eastside High,All,All,TA,489,443,90.6,177,40,18,4.1,59,13.3,0,0,0,0,0,0,0,0,0,0,16,3.3,30,6.1
+111872,93536,2019-20,S,19,64246,Los Angeles,Antelope Valley Union High,SOAR High (Students On Academic Rise),All,All,TA,97,97,100.0,94,96.9,17,17.5,59,60.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+126003,93536,2019-20,S,19,64246,Los Angeles,Antelope Valley Union High,Academies of the Antelope Valley,All,All,TA,34,30,88.2,16,53.3,0,0,5,16.7,0,0,0,0,0,0,0,0,1,2.9,3,8.8,0,0
+1930213,93535,2019-20,S,19,64246,Los Angeles,Antelope Valley Union High,Antelope Valley High,All,All,TA,418,353,84.4,91,25.8,17,4.8,26,7.4,0,0,0,0,0,0,0,0,0,0,34,8.1,31,7.4
+1936624,93550,2019-20,S,19,64246,Los Angeles,Antelope Valley Union High,Palmdale High,All,All,TA,584,459,78.6,174,37.9,19,4.1,43,9.4,0,0,0,0,0,0,0,0,1,0.2,32,5.5,92,15.8
+1937051,93536,2019-20,S,19,64246,Los Angeles,Antelope Valley Union High,Quartz Hill High,All,All,TA,755,691,91.5,307,44.4,65,9.4,169,24.5,1,0.1,0,0,3,0.4,0,0,1,0.1,24,3.2,35,4.6
+1995398,93551,2019-20,S,19,64246,Los Angeles,Antelope Valley Union High,Highland High,All,All,TA,668,578,86.5,179,31,9,1.6,61,10.6,1,0.1,0,0,0,0,0,0,0,0,35,5.2,54,8.1
+1995406,93543,2019-20,S,19,64246,Los Angeles,Antelope Valley Union High,Littlerock High,All,All,TA,348,271,77.9,64,23.6,16,5.9,47,17.3,1,0.3,0,0,0,0,0,0,0,0,48,13.8,28,8
+1995844,93536,2019-20,S,19,64246,Los Angeles,Antelope Valley Union High,Lancaster High,All,All,TA,599,522,87.1,215,41.2,14,2.7,92,17.6,0,0,0,0,2,0.3,0,0,2,0.3,33,5.5,40,6.7
+1996537,93534,2019-20,S,19,64246,Los Angeles,Antelope Valley Union High,Desert Sands Charter,All,All,TA,234,26,11.1,3,11.5,0,0,0,0,2,0.9,0,0,0,0,0,0,9,3.8,46,19.7,151,64.5
+1996644,93550,2019-20,S,19,64246,Los Angeles,Antelope Valley Union High,R. Rex Parris High,All,All,TA,247,37,15.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,109,44.1,101,40.9
+1930288,91007,2019-20,S,19,64261,Los Angeles,Arcadia Unified,Arcadia High,All,All,TA,785,764,97.3,3,0.4,0,0,0,0,7,0.9,0,0,0,0,0,0,6,0.8,5,0.6,3,0.4
+1930528,91702,2019-20,S,19,64279,Los Angeles,Azusa Unified,Azusa High,All,All,TA,278,243,87.4,134,55.1,52,21.4,59,24.3,0,0,0,0,7,2.5,0,0,1,0.4,20,7.2,7,2.5
+1931765,91740,2019-20,S,19,64279,Los Angeles,Azusa Unified,Sierra High,All,All,TA,112,93,83.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.9,16,14.3,2,1.8
+1933449,91722,2019-20,S,19,64279,Los Angeles,Azusa Unified,Gladstone High,All,All,TA,276,268,97.1,136,50.7,41,15.3,79,29.5,0,0,0,0,1,0.4,0,0,1,0.4,3,1.1,3,1.1
+1930601,91706,2019-20,S,19,64287,Los Angeles,Baldwin Park Unified,Baldwin Park High,All,All,TA,405,379,93.6,121,31.9,0,0,86,22.7,0,0,0,0,12,3,0,0,3,0.7,7,1.7,4,1
+1938166,91706,2019-20,S,19,64287,Los Angeles,Baldwin Park Unified,Sierra Vista High,All,All,TA,442,426,96.4,200,46.9,0,0,137,32.2,0,0,0,0,8,1.8,0,0,1,0.2,5,1.1,2,0.5
+1996479,91107,2019-20,S,19,64287,Los Angeles,Baldwin Park Unified,Opportunities for Learning - Baldwin Park,All,All,TA,1392,303,21.8,159,52.5,0,0,17,5.6,10,0.7,0,0,0,0,2,0.1,43,3.1,357,25.6,677,48.6
+1930700,91746,2019-20,S,19,64295,Los Angeles,Bassett Unified,Bassett Senior High,All,All,TA,222,207,93.2,77,37.2,0,0,37,17.9,0,0,0,0,0,0,0,0,0,0,15,6.8,0,0
+1930775,90706,2019-20,S,19,64303,Los Angeles,Bellflower Unified,Bellflower High,All,All,TA,354,345,97.5,78,22.6,61,17.7,77,22.3,0,0,0,0,1,0.3,0,0,1,0.3,7,2,0,0
+1935618,90713,2019-20,S,19,64303,Los Angeles,Bellflower Unified,Mayfair High,All,All,TA,458,437,95.4,171,39.1,59,13.5,99,22.7,3,0.7,0,0,11,2.4,0,0,0,0,3,0.7,4,0.9
+1930981,90212,2019-20,S,19,64311,Los Angeles,Beverly Hills Unified,Beverly Hills High,All,All,TA,324,311,96.0,179,57.6,0,0,0,0,2,0.6,0,0,1,0.3,1,0.3,6,1.9,3,0.9,0,0
+1931088,91750,2019-20,S,19,64329,Los Angeles,Bonita Unified,Bonita High,All,All,TA,466,459,98.5,320,69.7,6,1.3,219,47.7,0,0,0,0,3,0.6,0,0,0,0,3,0.6,1,0.2
+1937739,91773,2019-20,S,19,64329,Los Angeles,Bonita Unified,San Dimas High,All,All,TA,320,310,96.9,169,54.5,2,0.6,76,24.5,2,0.6,0,0,1,0.3,0,0,3,0.9,2,0.6,2,0.6
+131573,91505,2019-20,S,19,64337,Los Angeles,Burbank Unified,Burbank Unified Independent Learning Academy (BUILA),All,All,TA,37,33,89.2,6,18.2,0,0,0,0,2,5.4,0,0,0,0,0,0,0,0,2,5.4,0,0
+1931187,91502,2019-20,S,19,64337,Los Angeles,Burbank Unified,Burbank High,All,All,TA,661,620,93.8,364,58.7,0,0,282,45.5,23,3.5,0,0,11,1.7,0,0,1,0.2,4,0.6,2,0.3
+1931237,91506,2019-20,S,19,64337,Los Angeles,Burbank Unified,Burroughs High,All,All,TA,560,540,96.4,318,58.9,144,26.7,193,35.7,5,0.9,0,0,3,0.5,0,0,0,0,10,1.8,2,0.4
+118521,90250,2019-20,S,19,64352,Los Angeles,Centinela Valley Union High,Centinela Valley Independent Study,All,All,TA,21,14,66.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4.8,6,28.6,0,0
+128488,90260,2019-20,S,19,64352,Los Angeles,Centinela Valley Union High,Family First Charter,All,All,TA,847,11,1.3,9,81.8,0,0,0,0,0,0,0,0,0,0,0,0,1,0.1,835,98.6,0,0
+128496,90301,2019-20,S,19,64352,Los Angeles,Centinela Valley Union High,New Opportunities Charter,All,All,TA,1164,25,2.1,25,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1139,97.9,0,0
+1930239,90260,2019-20,S,19,64352,Los Angeles,Centinela Valley Union High,R. K. Lloyde High,All,All,TA,140,109,77.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2.9,27,19.3,0,0
+1933951,90250,2019-20,S,19,64352,Los Angeles,Centinela Valley Union High,Hawthorne High,All,All,TA,430,384,89.3,176,45.8,70,18.2,28,7.3,0,0,0,0,0,0,0,0,1,0.2,45,10.5,0,0
+1934926,90260,2019-20,S,19,64352,Los Angeles,Centinela Valley Union High,Lawndale High,All,All,TA,542,519,95.8,247,47.6,72,13.9,75,14.5,0,0,0,0,1,0.2,0,0,0,0,22,4.1,0,0
+1935048,90260,2019-20,S,19,64352,Los Angeles,Centinela Valley Union High,Leuzinger High,All,All,TA,469,428,91.3,258,60.3,67,15.7,17,4,0,0,0,0,0,0,0,0,2,0.4,38,8.1,1,0.2
+1931666,91724,2019-20,S,19,64378,Los Angeles,Charter Oak Unified,Charter Oak High,All,All,TA,345,339,98.3,192,56.6,25,7.4,97,28.6,1,0.3,0,0,3,0.9,0,0,1,0.3,0,0,1,0.3
+1931823,91711,2019-20,S,19,64394,Los Angeles,Claremont Unified,Claremont High,All,All,TA,561,542,96.6,410,75.6,144,26.6,255,47,1,0.2,0,0,6,1.1,0,0,3,0.5,6,1.1,3,0.5
+1932086,91723,2019-20,S,19,64436,Los Angeles,Covina-Valley Unified,Covina High,All,All,TA,281,273,97.2,202,74,76,27.8,85,31.1,0,0,0,0,4,1.4,0,0,2,0.7,2,0.7,0,0
+1936418,91722,2019-20,S,19,64436,Los Angeles,Covina-Valley Unified,Northview High,All,All,TA,294,292,99.3,202,69.2,59,20.2,71,24.3,0,0,0,0,1,0.3,0,0,1,0.3,0,0,0,0
+1938372,91723,2019-20,S,19,64436,Los Angeles,Covina-Valley Unified,South Hills High,All,All,TA,383,381,99.5,274,71.9,90,23.6,108,28.3,0,0,0,0,0,0,0,0,2,0.5,0,0,0,0
+1932201,90230,2019-20,S,19,64444,Los Angeles,Culver City Unified,Culver City High,All,All,TA,515,493,95.7,331,67.1,134,27.2,126,25.6,10,1.9,0,0,0,0,0,0,0,0,12,2.3,0,0
+1931625,90241,2019-20,S,19,64451,Los Angeles,Downey Unified,Columbus (Christopher) High,All,All,TA,145,111,76.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,10.3,19,13.1
+1932441,90241,2019-20,S,19,64451,Los Angeles,Downey Unified,Downey High,All,All,TA,957,921,96.2,528,57.3,108,11.7,219,23.8,3,0.3,0,0,17,1.8,0,0,6,0.6,9,0.9,1,0.1
+1939164,90241,2019-20,S,19,64451,Los Angeles,Downey Unified,Warren (Earl) High,All,All,TA,888,854,96.2,464,54.3,93,10.9,194,22.7,8,0.9,0,0,16,1.8,0,0,1,0.1,7,0.8,2,0.2
+128736,91016,2019-20,S,19,64469,Los Angeles,Duarte Unified,Opportunities for Learning - Duarte,All,All,TA,81,20,24.7,12,60,0,0,5,25,0,0,0,0,0,0,0,0,5,6.2,40,49.4,16,19.8
+134858,91010,2019-20,S,19,64469,Los Angeles,Duarte Unified,California School of the Arts - San Gabriel Valley,All,All,TA,112,111,99.1,90,81.1,19,17.1,0,0,0,0,0,0,0,0,0,0,1,0.9,0,0,0,0
+1932482,91010,2019-20,S,19,64469,Los Angeles,Duarte Unified,Duarte High,All,All,TA,185,176,95.1,91,51.7,0,0,76,43.2,0,0,0,0,2,1.1,0,0,0,0,7,3.8,0,0
+1936079,91010,2019-20,S,19,64469,Los Angeles,Duarte Unified,Mt. Olive Innovation and Technology High,All,All,TA,40,29,72.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,17.5,4,10
+1930320,91732,2019-20,S,19,64519,Los Angeles,El Monte Union High,Arroyo High,All,All,TA,445,415,93.3,210,50.6,44,10.6,98,23.6,0,0,0,0,0,0,0,0,7,1.6,14,3.1,9,2
+1932664,91731,2019-20,S,19,64519,Los Angeles,El Monte Union High,El Monte High,All,All,TA,446,403,90.4,144,35.7,88,21.8,74,18.4,0,0,0,0,0,0,0,0,11,2.5,20,4.5,12,2.7
+1932680,91732,2019-20,S,19,64519,Los Angeles,El Monte Union High,Mountain View High,All,All,TA,286,255,89.2,105,41.2,35,13.7,27,10.6,0,0,0,0,1,0.3,0,0,3,1,14,4.9,13,4.5
+1937481,91770,2019-20,S,19,64519,Los Angeles,El Monte Union High,Rosemead High,All,All,TA,403,373,92.6,218,58.4,49,13.1,141,37.8,1,0.2,0,0,5,1.2,0,0,2,0.5,12,3,10,2.5
+1995661,91733,2019-20,S,19,64519,Los Angeles,El Monte Union High,South El Monte High,All,All,TA,320,296,92.5,161,54.4,52,17.6,44,14.9,0,0,0,0,13,4.1,0,0,2,0.6,6,1.9,3,0.9
+133835,90660,2019-20,S,19,64527,Los Angeles,El Rancho Unified,Ellen Ochoa Prep Academy,All,All,TA,64,63,98.4,50,79.4,16,25.4,17,27,0,0,0,0,0,0,0,0,0,0,0,0,1,1.6
+1932706,90660,2019-20,S,19,64527,Los Angeles,El Rancho Unified,El Rancho High,All,All,TA,504,483,95.8,277,57.3,6,1.2,102,21.1,0,0,0,0,5,1,0,0,0,0,14,2.8,2,0.4
+1932763,90245,2019-20,S,19,64535,Los Angeles,El Segundo Unified,El Segundo High,All,All,TA,284,279,98.2,215,77.1,29,10.4,125,44.8,0,0,0,0,0,0,0,0,0,0,0,0,5,1.8
+1932144,91214,2019-20,S,19,64568,Los Angeles,Glendale Unified,Crescenta Valley High,All,All,TA,637,620,97.3,437,70.5,0,0,281,45.3,10,1.6,0,0,2,0.3,0,0,0,0,2,0.3,3,0.5
+1933530,91205,2019-20,S,19,64568,Los Angeles,Glendale Unified,Glendale High,All,All,TA,544,470,86.4,195,41.5,105,22.3,98,20.9,26,4.8,0,0,12,2.2,1,0.2,7,1.3,17,3.1,11,2
+1934082,91202,2019-20,S,19,64568,Los Angeles,Glendale Unified,Herbert Hoover High,All,All,TA,378,352,93.1,145,41.2,63,17.9,72,20.5,13,3.4,0,0,4,1.1,0,0,5,1.3,1,0.3,3,0.8
+1995497,91214,2019-20,S,19,64568,Los Angeles,Glendale Unified,Verdugo Academy,All,All,TA,39,35,89.7,2,5.7,0,0,0,0,1,2.6,0,0,0,0,0,0,0,0,2,5.1,1,2.6
+1996131,91214,2019-20,S,19,64568,Los Angeles,Glendale Unified,Anderson W. Clark Magnet High,All,All,TA,251,243,96.8,209,86,31,12.8,141,58,7,2.8,0,0,0,0,0,0,0,0,1,0.4,0,0
+1933597,91741,2019-20,S,19,64576,Los Angeles,Glendora Unified,Glendora High,All,All,TA,538,528,98.1,360,68.2,22,4.2,207,39.2,0,0,0,0,6,1.1,0,0,1,0.2,3,0.6,0,0
+1996305,92374,2019-20,S,19,64584,Los Angeles,Gorman Joint,Gorman Learning Center,All,All,TA,149,119,79.9,12,10.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,18.1,3,2
+100354,90250,2019-20,S,19,64592,Los Angeles,Hawthorne,Hawthorne Math and Science Academy,All,All,TA,124,123,99.2,107,87,68,55.3,82,66.7,1,0.8,0,0,0,0,0,0,0,0,0,0,0,0
+1934231,90301,2019-20,S,19,64634,Los Angeles,Inglewood Unified,Inglewood High,All,All,TA,215,186,86.5,68,36.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,13,1,0.5
+1936046,90303,2019-20,S,19,64634,Los Angeles,Inglewood Unified,Morningside High,All,All,TA,195,162,83.1,51,31.5,0,0,0,0,0,0,0,0,5,2.6,0,0,0,0,25,12.8,3,1.5
+1996529,90301,2019-20,S,19,64634,Los Angeles,Inglewood Unified,City Honors College Preparatory Academy,All,All,TA,96,93,96.9,64,68.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3.1,0,0
+1996586,90305,2019-20,S,19,64634,Los Angeles,Inglewood Unified,Animo Inglewood Charter High,All,All,TA,155,151,97.4,127,84.1,46,30.5,36,23.8,0,0,0,0,1,0.6,0,0,2,1.3,1,0.6,0,0
+1934611,91011,2019-20,S,19,64659,Los Angeles,La Canada Unified,La Canada High,All,All,TA,338,330,97.6,289,87.6,0,0,0,0,1,0.3,0,0,0,0,0,0,0,0,6,1.8,1,0.3
+1930080,91301,2019-20,S,19,64683,Los Angeles,Las Virgenes Unified,Agoura High,All,All,TA,469,441,94.0,286,64.9,46,10.4,124,28.1,5,1.1,0,0,0,0,0,0,1,0.2,18,3.8,4,0.9
+1931781,91302,2019-20,S,19,64683,Los Angeles,Las Virgenes Unified,Calabasas High,All,All,TA,473,442,93.4,297,67.2,37,8.4,126,28.5,5,1.1,0,0,0,0,0,0,0,0,22,4.7,4,0.8
+1996438,90260,2019-20,S,19,64691,Los Angeles,Lawndale Elementary,Environmental Charter High,All,All,TA,124,119,96.0,115,96.6,43,36.1,80,67.2,0,0,0,0,0,0,0,0,0,0,1,0.8,4,3.2
+1996313,90301,2019-20,S,19,64709,Los Angeles,Lennox,Animo Leadership High,All,All,TA,146,141,96.6,137,97.2,76,53.9,42,29.8,0,0,0,0,1,0.7,0,0,0,0,4,2.7,0,0
+125153,90815,2019-20,S,19,64725,Los Angeles,Long Beach Unified,Beach High-Intensive Learning Program,All,All,TA,29,21,72.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3.4,5,17.2,2,6.9
+131938,90813,2019-20,S,19,64725,Los Angeles,Long Beach Unified,Clear Passage Educational Center,All,All,TA,18,2,11.1,1,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,88.9,0,0
+132324,90815,2019-20,S,19,64725,Los Angeles,Long Beach Unified,Eunice Sato Academy of Math & Science,All,All,TA,100,96,96.0,89,92.7,5,5.2,56,58.3,0,0,0,0,0,0,0,0,0,0,4,4,0,0
+1930411,90704,2019-20,S,19,64725,Los Angeles,Long Beach Unified,Avalon K-12,All,All,TA,37,35,94.6,23,65.7,5,14.3,8,22.9,0,0,0,0,0,0,0,0,0,0,2,5.4,0,0
+1934470,90805,2019-20,S,19,64725,Los Angeles,Long Beach Unified,Jordan High,All,All,TA,569,490,86.1,245,50,25,5.1,74,15.1,0,0,0,0,15,2.6,0,0,1,0.2,56,9.8,7,1.2
+1934678,90713,2019-20,S,19,64725,Los Angeles,Long Beach Unified,Lakewood High,All,All,TA,723,675,93.4,374,55.4,112,16.6,141,20.9,0,0,0,0,16,2.2,0,0,1,0.1,30,4.1,1,0.1
+1935758,90815,2019-20,S,19,64725,Los Angeles,Long Beach Unified,Millikan High,All,All,TA,850,808,95.1,580,71.8,111,13.7,307,38,0,0,0,0,6,0.7,0,0,0,0,33,3.9,3,0.4
+1936947,90813,2019-20,S,19,64725,Los Angeles,Long Beach Unified,Polytechnic High,All,All,TA,991,908,91.6,600,66.1,109,12,336,37,0,0,0,0,9,0.9,0,0,1,0.1,59,6,14,1.4
+1937176,90810,2019-20,S,19,64725,Los Angeles,Long Beach Unified,Reid High,All,All,TA,107,68,63.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,15.9,22,20.6
+1939875,90804,2019-20,S,19,64725,Los Angeles,Long Beach Unified,Wilson High,All,All,TA,842,778,92.4,549,70.6,180,23.1,246,31.6,0,0,0,0,8,1,0,0,0,0,51,6.1,5,0.6
+1995539,90747,2019-20,S,19,64725,Los Angeles,Long Beach Unified,California Academy of Mathematics and Science,All,All,TA,160,160,100.0,158,98.8,78,48.8,123,76.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1995570,90813,2019-20,S,19,64725,Los Angeles,Long Beach Unified,Educational Partnership High,All,All,TA,479,349,72.9,6,1.7,0,0,8,2.3,0,0,0,0,0,0,0,0,0,0,81,16.9,49,10.2
+1995935,90810,2019-20,S,19,64725,Los Angeles,Long Beach Unified,Cabrillo High,All,All,TA,533,464,87.1,232,50,9,1.9,93,20,0,0,0,0,13,2.4,0,0,0,0,45,8.4,11,2.1
+1996503,90813,2019-20,S,19,64725,Los Angeles,Long Beach Unified,Renaissance High School for the Arts,All,All,TA,105,101,96.2,65,64.4,3,3,22,21.8,0,0,0,0,0,0,0,0,0,0,4,3.8,0,0
+100677,91406,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,High Tech LA,All,All,TA,83,82,98.8,80,97.6,0,0,39,47.6,0,0,0,0,0,0,0,0,0,0,0,0,1,1.2
+100750,90037,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Wallis Annenberg High,All,All,TA,119,103,86.6,82,79.6,14,13.6,7,6.8,0,0,0,0,0,0,0,0,1,0.8,12,10.1,3,2.5
+100800,90004,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Central City Value,All,All,TA,109,97,89.0,70,72.2,0,0,0,0,0,0,0,0,0,0,0,0,1,0.9,11,10.1,0,0
+101196,90043,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,ICEF View Park Preparatory High,All,All,TA,157,136,86.6,136,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,13.4,0,0
+101675,90023,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Oscar De La Hoya Animo Charter High,All,All,TA,134,116,86.6,90,77.6,36,31,33,28.4,0,0,0,0,0,0,0,0,0,0,8,6,10,7.5
+101683,90065,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Renaissance Arts Academy,All,All,TA,45,45,100.0,45,100,0,0,33,73.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+102434,90047,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Animo South Los Angeles Charter,All,All,TA,120,116,96.7,91,78.4,23,19.8,21,18.1,0,0,0,0,0,0,0,0,0,0,4,3.3,0,0
+102541,90007,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,New Designs Charter,All,All,TA,88,79,89.8,62,78.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3.4,6,6.8
+102913,90047,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Middle College High,All,All,TA,84,83,98.8,56,67.5,11,13.3,35,42.2,0,0,0,0,0,0,0,0,0,0,1,1.2,0,0
+102921,90744,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Dr. Richard A. Vladovic Harbor Teacher Preparation Academy,All,All,TA,103,103,100.0,98,95.1,34,33,76,73.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+106351,91304,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Ivy Academia,All,All,TA,18,17,94.4,17,100,0,0,0,0,1,5.6,0,0,0,0,0,0,0,0,0,0,0,0
+106435,90026,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Camino Nuevo Charter High,All,All,TA,60,49,81.7,49,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,15,2,3.3
+106831,90291,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Animo Venice Charter High,All,All,TA,152,144,94.7,92,63.9,23,16,30,20.8,0,0,0,0,0,0,0,0,1,0.7,7,4.6,0,0
+106849,90001,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Animo Pat Brown,All,All,TA,131,121,92.4,106,87.6,34,28.1,20,16.5,0,0,0,0,0,0,0,0,0,0,7,5.3,3,2.3
+106864,90007,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Alliance Gertz-Ressler Richard Merkin 6-12 Complex,All,All,TA,130,127,97.7,127,100,40,31.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2.3
+106997,90007,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Orthopaedic Hospital,All,All,TA,181,181,100.0,120,66.3,26,14.4,58,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+107003,91325,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Northridge Academy High,All,All,TA,196,186,94.9,98,52.7,23,12.4,52,28,4,2,0,0,1,0.5,0,0,0,0,3,1.5,2,1
+107011,90280,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,International Studies Learning Center at Legacy High School Complex,All,All,TA,88,82,93.2,57,69.5,41,50,27,32.9,0,0,0,0,1,1.1,0,0,0,0,5,5.7,0,0
+107755,90731,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Port of Los Angeles High,All,All,TA,233,209,89.7,91,43.5,0,0,0,0,0,0,0,0,2,0.9,0,0,1,0.4,6,2.6,15,6.4
+108878,91405,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,CHAMPS - Charter HS of Arts-Multimedia & Performing,All,All,TA,194,177,91.2,115,65,4,2.3,90,50.8,3,1.5,0,0,0,0,0,0,0,0,12,6.2,2,1
+108894,90003,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Alliance Judy Ivie Burton Technology Academy High,All,All,TA,133,132,99.2,129,97.7,32,24.2,0,0,0,0,0,0,1,0.8,0,0,0,0,0,0,0,0
+108928,90046,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Larchmont Charter,All,All,TA,104,101,97.1,85,84.2,14,13.9,40,39.6,0,0,0,0,1,1,0,0,1,1,0,0,1,1
+108936,90255,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Alliance Collins Family College-Ready High,All,All,TA,147,145,98.6,141,97.2,51,35.2,0,0,0,0,0,0,0,0,0,0,0,0,2,1.4,0,0
+109447,90011,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Santee Education Complex,All,All,TA,449,396,88.2,164,41.4,98,24.7,86,21.7,0,0,0,0,10,2.2,0,0,3,0.7,32,7.1,8,1.8
+109454,90280,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,South East High,All,All,TA,455,412,90.5,201,48.8,80,19.4,118,28.6,0,0,0,0,14,3.1,0,0,0,0,26,5.7,3,0.7
+109462,90270,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Maywood Academy High,All,All,TA,257,212,82.5,85,40.1,106,50,27,12.7,0,0,0,0,12,4.7,0,0,2,0.8,25,9.7,6,2.3
+109512,91402,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Cal Burke High,All,All,TA,109,63,57.8,2,3.2,0,0,0,0,0,0,0,0,0,0,0,0,1,0.9,12,11,33,30.3
+110304,90026,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Los Angeles Academy of Arts and Enterprise,All,All,TA,50,38,76.0,37,97.4,13,34.2,11,28.9,0,0,0,0,0,0,0,0,2,4,5,10,5,10
+110668,90011,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Frida Kahlo High,All,All,TA,68,9,13.2,2,22.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,14.7,49,72.1
+111484,90026,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,New Village Girls Academy,All,All,TA,38,17,44.7,17,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,23.7,12,31.6
+111492,90037,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Alliance Patti And Peter Neuwirth Leadership Academy,All,All,TA,130,122,93.8,122,100,32,26.2,0,0,0,0,0,0,0,0,0,0,0,0,2,1.5,6,4.6
+111500,90015,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Alliance Dr. Olga Mohan High,All,All,TA,97,91,93.8,91,100,24,26.4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5.2
+111575,90011,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Animo Ralph Bunche Charter High,All,All,TA,130,126,96.9,85,67.5,30,23.8,26,20.6,0,0,0,0,0,0,0,0,1,0.8,0,0,3,2.3
+111583,90007,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Animo Jackie Robinson High,All,All,TA,150,142,94.7,119,83.8,50,35.2,59,41.5,0,0,0,0,0,0,0,0,0,0,5,3.3,3,2
+111625,90061,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Animo Watts College Preparatory Academy,All,All,TA,110,103,93.6,76,73.8,31,30.1,17,16.5,0,0,0,0,0,0,0,0,0,0,6,5.5,1,0.9
+111641,90043,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Alliance Ouchi-O'Donovan 6-12 Complex,All,All,TA,143,139,97.2,137,98.6,4,2.9,0,0,0,0,0,0,0,0,0,0,1,0.7,1,0.7,2,1.4
+111658,90032,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Alliance Marc & Eva Stern Math and Science,All,All,TA,143,140,97.9,129,92.1,57,40.7,0,0,0,0,0,0,0,0,0,0,2,1.4,0,0,1,0.7
+112029,90017,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,School of Business and Tourism at Contreras Learning Complex,All,All,TA,105,84,80.0,39,46.4,31,36.9,21,25,0,0,0,0,0,0,0,0,1,1,19,18.1,1,1
+112037,91601,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,East Valley Senior High,All,All,TA,108,92,85.2,33,35.9,1,1.1,13,14.1,0,0,0,0,5,4.6,0,0,1,0.9,10,9.3,0,0
+112045,91331,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Arleta High,All,All,TA,342,329,96.2,176,53.5,31,9.4,61,18.5,0,0,0,0,2,0.6,0,0,0,0,11,3.2,0,0
+112052,91402,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Panorama High,All,All,TA,272,212,77.9,87,41,39,18.4,45,21.2,1,0.4,0,0,2,0.7,0,0,5,1.8,49,18,3,1.1
+112508,90045,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Bright Star Secondary Charter Academy,All,All,TA,112,103,92.0,102,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5.4,3,2.7
+112870,90017,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Contreras Learning Center-Los Angeles School of Global Studies,All,All,TA,97,52,53.6,14,26.9,5,9.6,12,23.1,0,0,0,0,1,1,0,0,3,3.1,29,29.9,12,12.4
+114850,90007,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,West Adams Preparatory High,All,All,TA,403,326,80.9,153,46.9,67,20.6,75,23,0,0,0,0,5,1.2,0,0,5,1.2,63,15.6,4,1
+115253,91342,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Discovery Charter Preparatory #2,All,All,TA,45,41,91.1,40,97.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6.7,1,2.2
+116509,90063,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Alliance Morgan McKinzie High,All,All,TA,75,70,93.3,70,100,14,20,0,0,0,0,0,0,0,0,0,0,1,1.3,3,4,1,1.3
+117051,90026,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Edward R. Roybal Learning Center,All,All,TA,267,215,80.5,95,44.2,32,14.9,42,19.5,0,0,0,0,6,2.2,0,0,6,2.2,33,12.4,7,2.6
+117069,90028,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Helen Bernstein High,All,All,TA,163,96,58.9,41,42.7,9,9.4,19,19.8,0,0,0,0,5,3.1,0,0,6,3.7,44,27,12,7.4
+117077,90028,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,APEX Academy,All,All,TA,87,58,66.7,29,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,14.9,16,18.4
+117598,90044,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Alliance Piera Barbaglia Shaheen Health Services Academy,All,All,TA,122,105,86.1,103,98.1,3,2.9,0,0,0,0,0,0,0,0,0,0,3,2.5,10,8.2,4,3.3
+117606,90065,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Alliance Leichtman-Levine Family Foundation Environmental Science High,All,All,TA,97,94,96.9,94,100,11,11.7,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2.1
+117622,90064,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Magnolia Science Academy 4,All,All,TA,20,17,85.0,17,100,1,5.9,0,0,0,0,0,0,0,0,0,0,0,0,2,10,1,5
+117721,90017,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Contreras Learning Center-Academic Leadership Community,All,All,TA,111,82,73.9,33,40.2,21,25.6,23,28,0,0,0,0,3,2.7,0,0,3,2.7,21,18.9,2,1.8
+117747,90005,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Los Angeles High School of the Arts,All,All,TA,99,85,85.9,35,41.2,16,18.8,15,17.6,0,0,0,0,0,0,0,0,0,0,11,11.1,3,3
+117762,90005,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,School for the Visual Arts and Humanities,All,All,TA,108,73,67.6,40,54.8,8,11,13,17.8,0,0,0,0,2,1.9,0,0,3,2.8,22,20.4,8,7.4
+117911,90248,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,New Millennium Secondary,All,All,TA,52,45,86.5,41,91.1,4,8.9,8,17.8,0,0,0,0,1,1.9,0,0,1,1.9,1,1.9,4,7.7
+118588,90061,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Alain Leroy Locke College Preparatory Academy,All,All,TA,406,233,57.4,124,53.2,25,10.7,35,15,0,0,0,0,7,1.7,0,0,5,1.2,91,22.4,70,17.2
+119651,91352,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Sun Valley High,All,All,TA,101,81,80.2,24,29.6,11,13.6,8,9.9,0,0,0,0,4,4,0,0,4,4,9,8.9,3,3
+119685,90010,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,New Open World Academy K-12,All,All,TA,83,73,88.0,47,64.4,16,21.9,24,32.9,0,0,0,0,1,1.2,0,0,1,1.2,5,6,3,3.6
+119693,90005,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,UCLA Community K-12,All,All,TA,130,108,83.1,59,54.6,37,34.3,38,35.2,0,0,0,0,1,0.8,0,0,6,4.6,8,6.2,7,5.4
+119727,90012,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Ramon C. Cortines School of Visual and Performing Arts,All,All,TA,299,285,95.3,156,54.7,35,12.3,94,33,2,0.7,0,0,1,0.3,1,0.3,0,0,9,3,1,0.3
+119966,90033,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Felicitas and Gonzalo Mendez High,All,All,TA,242,215,88.8,121,56.3,59,27.4,51,23.7,0,0,0,0,5,2.1,0,0,2,0.8,18,7.4,2,0.8
+120071,90061,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,New Designs Charter School-Watts,All,All,TA,60,44,73.3,44,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,20,4,6.7
+120360,91406,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Daniel Pearl Journalism & Communications Magnet,All,All,TA,81,81,100.0,47,58,4,4.9,28,34.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+121095,90005,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Ambassador-Global Leadership,All,All,TA,74,59,79.7,33,55.9,13,22,12,20.3,0,0,0,0,2,2.7,0,0,0,0,10,13.5,3,4.1
+121285,90059,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Alliance Cindy and Bill Simon Technology Academy High,All,All,TA,102,99,97.1,97,98,8,8.1,0,0,0,0,0,0,1,1,0,0,0,0,2,2,0,0
+121293,90065,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Alliance Tennenbaum Family Technology High,All,All,TA,82,81,98.8,78,96.3,11,13.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.2
+122341,90063,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Esteban Torres East LA Performing Arts Magnet,All,All,TA,126,114,90.5,51,44.7,16,14,20,17.5,0,0,0,0,2,1.6,0,0,1,0.8,8,6.3,1,0.8
+122358,90063,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Humanitas Academy of Art and Technology at Esteban E. Torres High No. 4,All,All,TA,103,91,88.3,45,49.5,20,22,27,29.7,0,0,0,0,1,1,0,0,0,0,10,9.7,1,1
+122366,90063,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Social Justice Leadership Academy at Esteban E. Torres High No. 5,All,All,TA,80,70,87.5,38,54.3,17,24.3,14,20,0,0,0,0,5,6.3,0,0,0,0,5,6.3,0,0
+122374,90063,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,East Los Angeles Renaissance Academy at Esteban E. Torres High No. 2,All,All,TA,82,76,92.7,37,48.7,24,31.6,13,17.1,0,0,0,0,2,2.4,0,0,1,1.2,3,3.7,0,0
+122382,90063,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Engineering and Technology Academy at Esteban E. Torres High No. 3,All,All,TA,82,68,82.9,22,32.4,15,22.1,13,19.1,0,0,0,0,1,1.2,0,0,2,2.4,11,13.4,0,0
+122606,91342,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,PUC Lakeview Charter High,All,All,TA,99,97,98.0,83,85.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+122721,90255,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Aspire Pacific Academy,All,All,TA,91,86,94.5,68,79.1,20,23.3,25,29.1,0,0,0,0,1,1.1,0,0,0,0,1,1.1,3,3.3
+123133,90031,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Alliance Susan and Eric Smidt Technology High,All,All,TA,137,128,93.4,118,92.2,20,15.6,0,0,0,0,0,0,1,0.7,0,0,1,0.7,5,3.6,2,1.5
+123141,90026,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Alliance Ted K. Tajima High,All,All,TA,106,101,95.3,101,100,42,41.6,0,0,0,0,0,0,1,0.9,0,0,0,0,3,2.8,1,0.9
+124362,91344,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Valley Academy of Arts and Sciences,All,All,TA,256,239,93.4,109,45.6,18,7.5,73,30.5,5,2,0,0,7,2.7,0,0,0,0,3,1.2,2,0.8
+124370,91340,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Cesar E. Chavez Learning Academies-Arts/Theatre/Entertain Mag,All,All,TA,81,77,95.1,41,53.2,21,27.3,12,15.6,0,0,0,0,0,0,0,0,0,0,3,3.7,1,1.2
+124388,91340,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Cesar E. Chavez Learning Academies-Social Justice Humanitas Academy,All,All,TA,122,115,94.3,73,63.5,40,34.8,43,37.4,0,0,0,0,0,0,0,0,0,0,5,4.1,2,1.6
+124396,91340,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Cesar E. Chavez Learning Academies-Academy of Scientific Exploration (ASE),All,All,TA,109,102,93.6,49,48,10,9.8,16,15.7,0,0,0,0,1,0.9,0,0,0,0,3,2.8,3,2.8
+124404,91340,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Cesar E. Chavez Learning Academies-Technology Preparatory Academy,All,All,TA,79,73,92.4,21,28.8,25,34.2,11,15.1,0,0,0,0,0,0,0,0,0,0,2,2.5,4,5.1
+124412,90065,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Sotomayor Arts and Sciences Magnet,All,All,TA,90,85,94.4,37,43.5,19,22.4,14,16.5,0,0,0,0,0,0,0,0,1,1.1,3,3.3,1,1.1
+124479,90011,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Dr. Maya Angelou Community High,All,All,TA,264,196,74.2,67,34.2,46,23.5,44,22.4,0,0,0,0,8,3,0,0,7,2.7,40,15.2,13,4.9
+124487,90001,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Public Service Community at Diego Rivera Learning Complex,All,All,TA,119,104,87.4,57,54.8,5,4.8,24,23.1,0,0,0,0,0,0,0,0,0,0,14,11.8,1,0.8
+124495,90001,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Communication and Technology at Diego Rivera Learning Complex,All,All,TA,106,90,84.9,39,43.3,16,17.8,10,11.1,0,0,0,0,0,0,0,0,1,0.9,11,10.4,4,3.8
+124503,90001,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Diego Rivera Learning Complex Green Design STEAM Academy,All,All,TA,112,94,83.9,29,30.9,13,13.8,16,17,0,0,0,0,0,0,0,0,1,0.9,12,10.7,5,4.5
+124511,90001,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Performing Arts Community at Diego Rivera Learning Complex,All,All,TA,121,89,73.6,43,48.3,21,23.6,23,25.8,0,0,0,0,0,0,0,0,0,0,30,24.8,2,1.7
+124529,90810,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Rancho Dominguez Preparatory,All,All,TA,143,133,93.0,50,37.6,13,9.8,25,18.8,0,0,0,0,3,2.1,1,0.7,0,0,5,3.5,1,0.7
+124560,90011,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Synergy Quantum Academy,All,All,TA,125,104,83.2,97,93.3,0,0,24,23.1,0,0,0,0,2,1.6,0,0,1,0.8,18,14.4,0,0
+124883,90002,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Animo College Preparatory Academy,All,All,TA,95,70,73.7,63,90,17,24.3,11,15.7,0,0,0,0,1,1.1,0,0,0,0,22,23.2,2,2.1
+124891,90043,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Alliance Renee and Meyer Luskin Academy High,All,All,TA,115,106,92.2,100,94.3,3,2.8,0,0,0,0,0,0,1,0.9,0,0,3,2.6,4,3.5,1,0.9
+124933,90065,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,PUC Early College Academy for Leaders and Scholars (ECALS),All,All,TA,95,88,92.6,76,86.4,0,0,0,0,0,0,0,0,1,1.1,0,0,0,0,1,1.1,5,5.3
+124941,90255,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Alliance Margaret M. Bloomfield Technology Academy High,All,All,TA,100,94,94.0,94,100,17,18.1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5
+125864,90071,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Ednovate - USC Hybrid High College Prep,All,All,TA,125,121,96.8,121,100,0,0,0,0,0,0,0,0,0,0,1,0.8,0,0,2,1.6,1,0.8
+125989,90028,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,STEM Academy at Bernstein High,All,All,TA,122,121,99.2,103,85.1,24,19.8,45,37.2,0,0,0,0,0,0,0,0,0,0,1,0.8,0,0
+126136,90018,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Math and Science College Preparatory,All,All,TA,125,121,96.8,121,100,35,28.9,32,26.4,0,0,0,0,1,0.8,0,0,0,0,0,0,3,2.4
+126482,90044,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Augustus F. Hawkins High A Critical Design and Gaming,All,All,TA,146,113,77.4,30,26.5,14,12.4,9,8,0,0,0,0,1,0.7,0,0,0,0,24,16.4,8,5.5
+126490,90044,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Augustus F. Hawkins High B Community Health Advocates,All,All,TA,104,79,76.0,26,32.9,13,16.5,17,21.5,0,0,0,0,1,1,0,0,1,1,20,19.2,3,2.9
+126508,90044,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Augustus F. Hawkins High C Responsible Indigenous Social Entrepreneurship,All,All,TA,96,81,84.4,23,28.4,9,11.1,15,18.5,0,0,0,0,0,0,0,0,2,2.1,13,13.5,0,0
+126516,90255,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Linda Esperanza Marquez High A Huntington Park Institute of Applied Medicine,All,All,TA,156,151,96.8,99,65.6,69,45.7,69,45.7,0,0,0,0,2,1.3,0,0,1,0.6,2,1.3,0,0
+126524,90255,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Linda Esperanza Marquez High B LIBRA Academy,All,All,TA,164,156,95.1,92,59,55,35.3,30,19.2,0,0,0,0,0,0,0,0,3,1.8,5,3,0,0
+126532,90255,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Linda Esperanza Marquez High C School of Social Justice,All,All,TA,174,159,91.4,83,52.2,50,31.4,30,18.9,0,0,0,0,4,2.3,0,0,4,2.3,5,2.9,2,1.1
+126557,90280,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Visual and Performing Arts at Legacy High School Complex,All,All,TA,107,94,87.9,40,42.6,16,17,30,31.9,0,0,0,0,0,0,0,0,0,0,10,9.3,3,2.8
+126573,90003,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Academy for Multilingual Arts and Science at Mervyn M. Dymally High,All,All,TA,176,135,76.7,40,29.6,11,8.1,21,15.6,0,0,0,0,4,2.3,0,0,0,0,37,21,0,0
+126615,90745,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Academies of Education and Empowerment at Carson High,All,All,TA,142,136,95.8,59,43.4,13,9.6,29,21.3,1,0.7,0,0,2,1.4,0,0,0,0,3,2.1,0,0
+126623,90745,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Academy of Medical Arts at Carson High,All,All,TA,109,105,96.3,52,49.5,30,28.6,32,30.5,0,0,0,0,2,1.8,0,0,1,0.9,1,0.9,0,0
+127217,90731,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Alliance Alice M. Baxter College-Ready High,All,All,TA,72,57,79.2,57,100,0,0,0,0,0,0,0,0,1,1.4,0,0,2,2.8,8,11.1,4,5.6
+127787,90710,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Humanities and Arts (HARTS) Academy of Los Angeles,All,All,TA,102,96,94.1,36,37.5,6,6.3,24,25,0,0,0,0,2,2,0,0,0,0,4,3.9,0,0
+127795,90017,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Contreras Learning Center-School of Social Justice,All,All,TA,133,87,65.4,50,57.5,13,14.9,18,20.7,0,0,0,0,1,0.8,0,0,5,3.8,35,26.3,5,3.8
+127803,90015,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Early College Academy-LA Trade Tech College,All,All,TA,34,34,100.0,7,20.6,0,0,1,2.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+127894,91343,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Valor Academy High,All,All,TA,113,95,84.1,95,100,0,0,0,0,0,0,0,0,0,0,0,0,6,5.3,6,5.3,6,5.3
+127910,90004,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Camino Nuevo High #2,All,All,TA,112,101,90.2,101,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3.6,7,6.3
+129585,90011,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,NAVA College Preparatory Academy,All,All,TA,141,118,83.7,53,44.9,26,22,31,26.3,0,0,0,0,0,0,0,0,4,2.8,18,12.8,1,0.7
+129627,90047,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,TEACH Tech Charter High,All,All,TA,71,57,80.3,57,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,19.7,0,0
+130997,91342,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Sylmar Biotech Health and Engineering Magnet,All,All,TA,55,52,94.5,13,25,6,11.5,8,15.4,0,0,0,0,2,3.6,0,0,0,0,1,1.8,0,0
+131821,90063,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Collegiate Charter High School of Los Angeles,All,All,TA,44,24,54.5,24,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,27.3,8,18.2
+132027,90006,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,University Preparatory Value High,All,All,TA,100,99,99.0,95,96,19,19.2,26,26.3,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+132084,91352,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Alliance Marine - Innovation and Technology 6-12 Complex,All,All,TA,49,46,93.9,44,95.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6.1
+132126,91331,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Bert Corona Charter High,All,All,TA,64,54,84.4,54,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10.9,3,4.7
+132282,90071,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Ednovate - East College Prep,All,All,TA,105,97,92.4,97,100,0,0,0,0,0,0,0,0,0,0,0,0,2,1.9,0,0,6,5.7
+133272,91342,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,PUC Triumph Charter Academy and PUC Triumph Charter High,All,All,TA,89,84,94.4,73,86.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4.5,1,1.1
+133298,91342,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,PUC CALS Middle School and Early College High,All,All,TA,58,54,93.1,54,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.7,3,5.2
+133868,90057,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Rise Kohyang High,All,All,TA,81,79,97.5,79,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2.5
+135855,90270,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Maywood Center for Enriched Studies,All,All,TA,113,101,89.4,48,47.5,20,19.8,22,21.8,0,0,0,0,0,0,0,0,3,2.7,8,7.1,1,0.9
+137562,90011,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Matrix for Success Academy,All,All,TA,103,3,2.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,37.9,61,59.2
+137612,91311,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Valley International Preparatory High,All,All,TA,56,53,94.6,42,79.2,0,0,0,0,1,1.8,0,0,0,0,0,0,0,0,1,1.8,1,1.8
+1930387,90021,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Central High,All,All,TA,274,43,15.7,2,4.7,0,0,1,2.3,0,0,0,0,0,0,0,0,3,1.1,45,16.4,183,66.8
+1930650,90744,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Phineas Banning Senior High,All,All,TA,551,496,90.0,165,33.3,101,20.4,68,13.7,0,0,0,0,9,1.6,0,0,5,0.9,33,6,8,1.5
+1930692,90002,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Thomas Riley High,All,All,TA,25,9,36.0,1,11.1,1,11.1,0,0,0,0,0,0,0,0,0,0,0,0,9,36,7,28
+1930866,90201,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Bell Senior High,All,All,TA,586,501,85.5,248,49.5,92,18.4,169,33.7,3,0.5,0,0,1,0.2,0,0,5,0.9,65,11.1,11,1.9
+1930924,90026,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Belmont Senior High,All,All,TA,290,168,57.9,78,46.4,64,38.1,55,32.7,0,0,0,0,6,2.1,0,0,8,2.8,91,31.4,17,5.9
+1930940,91335,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,John R. Wooden High,All,All,TA,47,11,23.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2.1,5,10.6,30,63.8
+1931047,91406,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Birmingham Community Charter High,All,All,TA,645,601,93.2,375,62.4,117,19.5,275,45.8,0,0,0,0,2,0.3,0,0,7,1.1,19,2.9,16,2.5
+1931476,91303,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Canoga Park Senior High,All,All,TA,342,287,83.9,102,35.5,119,41.5,41,14.3,0,0,0,0,6,1.8,0,0,15,4.4,24,7,10,2.9
+1931526,90745,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Carson Senior High,All,All,TA,332,307,92.5,130,42.3,14,4.6,85,27.7,0,0,0,0,4,1.2,0,0,3,0.9,15,4.5,3,0.9
+1931708,91311,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Chatsworth Charter High,All,All,TA,384,347,90.4,118,34,61,17.6,66,19,2,0.5,0,0,8,2.1,0,0,0,0,24,6.3,3,0.8
+1931716,91406,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Lake Balboa College Preparatory Magnet K-12,All,All,TA,29,27,93.1,18,66.7,0,0,11,40.7,0,0,0,0,0,0,0,0,1,3.4,1,3.4,0,0
+1931864,91335,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Grover Cleveland Charter High,All,All,TA,768,681,88.7,387,56.8,131,19.2,262,38.5,0,0,0,0,5,0.7,1,0.1,5,0.7,57,7.4,19,2.5
+1931930,90744,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Dan M. Issacs Avalon High,All,All,TA,34,6,17.6,1,16.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,14.7,23,67.6
+1932383,90016,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Susan Miller Dorsey Senior High,All,All,TA,222,147,66.2,49,33.3,6,4.1,17,11.6,0,0,0,0,19,8.6,0,0,1,0.5,50,22.5,5,2.3
+1932540,90041,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Eagle Rock High,All,All,TA,371,356,96.0,225,63.2,116,32.6,109,30.6,0,0,0,0,8,2.2,0,0,0,0,7,1.9,0,0
+1932623,91367,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,El Camino Real Charter High,All,All,TA,856,748,87.4,418,55.9,116,15.5,389,52,14,1.6,0,0,0,0,0,0,12,1.4,19,2.2,63,7.4
+1932847,90035,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Los Angeles Center for Enriched Studies,All,All,TA,218,213,97.7,161,75.6,89,41.8,131,61.5,0,0,0,0,0,0,0,0,0,0,5,2.3,0,0
+1932888,90012,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Downtown Business High,All,All,TA,218,214,98.2,145,67.8,80,37.4,99,46.3,1,0.5,0,0,0,0,0,0,2,0.9,1,0.5,0,0
+1932920,90046,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Fairfax Senior High,All,All,TA,358,323,90.2,141,43.7,67,20.7,79,24.5,1,0.3,0,0,4,1.1,0,0,2,0.6,18,5,10,2.8
+1932987,91352,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,John H. Francis Polytechnic,All,All,TA,583,551,94.5,348,63.2,99,18,150,27.2,0,0,0,0,6,1,0,0,0,0,16,2.7,10,1.7
+1933001,90059,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,King/Drew Medical Magnet High,All,All,TA,322,320,99.4,204,63.8,120,37.5,120,37.5,0,0,0,0,0,0,0,0,0,0,2,0.6,0,0
+1933043,90042,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Benjamin Franklin Senior High,All,All,TA,310,276,89.0,163,59.1,62,22.5,85,30.8,0,0,0,0,2,0.6,0,0,5,1.6,21,6.8,6,1.9
+1933118,90003,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,John C. Fremont Senior High,All,All,TA,520,438,84.2,163,37.2,44,10,81,18.5,0,0,0,0,7,1.3,0,0,0,0,64,12.3,11,2.1
+1933233,91335,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Sherman Oaks Center for Enriched Studies,All,All,TA,248,240,96.8,142,59.2,44,18.3,99,41.3,5,2,0,0,0,0,1,0.4,0,0,2,0.8,0,0
+1933241,90248,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Gardena Senior High,All,All,TA,314,272,86.6,112,41.2,37,13.6,49,18,0,0,0,0,10,3.2,0,0,1,0.3,25,8,6,1.9
+1933381,90022,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,James A. Garfield Senior High,All,All,TA,632,602,95.3,311,51.7,147,24.4,207,34.4,0,0,0,0,6,0.9,0,0,0,0,20,3.2,4,0.6
+1933746,91344,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Granada Hills Charter,All,All,TA,1172,1109,94.6,868,78.3,154,13.9,755,68.1,17,1.5,0,0,1,0.1,1,0.1,7,0.6,24,2,13,1.1
+1933795,91401,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Ulysses S. Grant Senior High,All,All,TA,492,421,85.6,167,39.7,63,15,117,27.8,1,0.2,0,0,5,1,1,0.2,0,0,48,9.8,16,3.3
+1933852,90034,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Alexander Hamilton Senior High,All,All,TA,639,560,87.6,302,53.9,109,19.5,196,35,3,0.5,0,0,7,1.1,0,0,1,0.2,57,8.9,11,1.7
+1934033,90028,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Hollywood Senior High,All,All,TA,373,319,85.5,179,56.1,44,13.8,94,29.5,0,0,0,0,3,0.8,0,0,12,3.2,32,8.6,7,1.9
+1934157,90255,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Huntington Park Senior High,All,All,TA,367,308,83.9,120,39,66,21.4,62,20.1,0,0,0,0,12,3.3,0,0,1,0.3,36,9.8,10,2.7
+1934371,90011,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Thomas Jefferson Senior High,All,All,TA,160,127,79.4,38,29.9,11,8.7,28,22,0,0,0,0,3,1.9,0,0,7,4.4,19,11.9,4,2.5
+1934454,90002,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,David Starr Jordan Senior High,All,All,TA,133,101,75.9,32,31.7,13,12.9,15,14.9,0,0,0,0,9,6.8,0,0,1,0.8,21,15.8,1,0.8
+1935121,90031,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Abraham Lincoln Senior High,All,All,TA,255,226,88.6,83,36.7,40,17.7,52,23,0,0,0,0,4,1.6,0,0,3,1.2,9,3.5,13,5.1
+1935352,90019,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Los Angeles Senior High,All,All,TA,297,226,76.1,99,43.8,32,14.2,42,18.6,0,0,0,0,10,3.4,0,0,4,1.3,46,15.5,11,3.7
+1935519,90037,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Manual Arts Senior High,All,All,TA,357,282,79.0,110,39,57,20.2,55,19.5,0,0,0,0,12,3.4,0,0,3,0.8,47,13.2,13,3.6
+1935568,90027,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,John Marshall Senior High,All,All,TA,548,500,91.2,340,68,111,22.2,265,53,0,0,0,0,1,0.2,0,0,4,0.7,25,4.6,18,3.3
+1935865,91343,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,James Monroe High,All,All,TA,522,378,72.4,152,40.2,93,24.6,67,17.7,1,0.2,0,0,11,2.1,0,0,4,0.8,103,19.7,25,4.8
+1936160,90710,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Nathaniel Narbonne Senior High,All,All,TA,472,426,90.3,194,45.5,70,16.4,115,27,0,0,0,0,10,2.1,0,0,3,0.6,21,4.4,12,2.5
+1936350,91601,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,North Hollywood Senior High,All,All,TA,611,568,93.0,324,57,153,26.9,219,38.6,4,0.7,0,0,10,1.6,0,0,4,0.7,23,3.8,2,0.3
+1937226,91335,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Reseda Charter High,All,All,TA,325,280,86.2,103,36.8,31,11.1,82,29.3,1,0.3,0,0,17,5.2,0,0,4,1.2,19,5.8,4,1.2
+1937424,90033,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Theodore Roosevelt Senior High,All,All,TA,301,245,81.4,87,35.5,60,24.5,33,13.5,0,0,0,0,0,0,0,0,2,0.7,47,15.6,7,2.3
+1937622,91340,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,San Fernando Senior High,All,All,TA,457,401,87.7,201,50.1,75,18.7,98,24.4,0,0,0,0,10,2.2,0,0,2,0.4,28,6.1,16,3.5
+1937838,90731,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,San Pedro Senior High,All,All,TA,523,476,91.0,192,40.3,80,16.8,149,31.3,2,0.4,0,0,9,1.7,0,0,2,0.4,33,6.3,1,0.2
+1938307,90280,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,South Gate Senior High,All,All,TA,558,495,88.7,193,39,107,21.6,115,23.2,0,0,0,0,18,3.2,0,0,5,0.9,37,6.6,3,0.5
+1938554,91342,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Sylmar Charter High,All,All,TA,335,310,92.5,171,55.2,70,22.6,99,31.9,0,0,0,0,5,1.5,0,0,0,0,17,5.1,3,0.9
+1938612,91364,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Taft Charter High,All,All,TA,504,461,91.5,242,52.5,67,14.5,167,36.2,7,1.4,0,0,1,0.2,0,0,3,0.6,23,4.6,9,1.8
+1938885,90025,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,University High School Charter,All,All,TA,332,298,89.8,156,52.3,35,11.7,92,30.9,1,0.3,0,0,2,0.6,0,0,5,1.5,18,5.4,8,2.4
+1938968,91411,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Van Nuys Senior High,All,All,TA,648,546,84.3,283,51.8,95,17.4,174,31.9,4,0.6,0,0,5,0.8,1,0.2,0,0,71,11,21,3.2
+1939040,90066,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Venice Senior High,All,All,TA,494,398,80.6,225,56.5,152,38.2,140,35.2,1,0.2,0,0,4,0.8,0,0,0,0,81,16.4,10,2
+1939107,91042,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Verdugo Hills Senior High,All,All,TA,291,274,94.2,129,47.1,65,23.7,92,33.6,0,0,0,0,3,1,0,0,3,1,5,1.7,6,2.1
+1939305,90047,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,George Washington Preparatory High,All,All,TA,240,194,80.8,52,26.8,16,8.2,21,10.8,0,0,0,0,4,1.7,0,0,0,0,39,16.3,3,1.3
+1939479,90045,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,WESM Health/Sports Medicine,All,All,TA,208,193,92.8,60,31.1,11,5.7,43,22.3,0,0,0,0,3,1.4,0,0,0,0,11,5.3,1,0.5
+1939859,90032,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Woodrow Wilson Senior High,All,All,TA,316,283,89.6,151,53.4,69,24.4,54,19.1,0,0,0,0,4,1.3,0,0,5,1.6,18,5.7,6,1.9
+1939941,91344,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,John F. Kennedy High,All,All,TA,521,490,94.0,243,49.6,93,19,150,30.6,1,0.2,0,0,11,2.1,0,0,2,0.4,9,1.7,8,1.5
+1995448,90033,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Francisco Bravo Medical Magnet High,All,All,TA,444,441,99.3,280,63.5,188,42.6,209,47.4,0,0,0,0,0,0,0,0,0,0,3,0.7,0,0
+1995794,90044,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Youth Opportunities Unlimited,All,All,TA,151,73,48.3,1,1.4,1,1.4,0,0,0,0,0,0,0,0,0,0,0,0,46,30.5,32,21.2
+1995836,90272,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Palisades Charter High,All,All,TA,736,696,94.6,694,99.7,0,0,0,0,9,1.2,0,0,0,0,0,0,2,0.3,22,3,7,1
+1996115,90063,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,City of Angels,All,All,TA,671,246,36.7,60,24.4,8,3.3,36,14.6,5,0.7,0,0,0,0,0,0,2,0.3,236,35.2,182,27.1
+1996610,90031,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Los Angeles Leadership Academy,All,All,TA,65,52,80.0,47,90.4,23,44.2,15,28.8,0,0,0,0,0,0,0,0,0,0,11,16.9,2,3.1
+6016885,90201,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Elizabeth Learning Center,All,All,TA,206,189,91.7,100,52.9,59,31.2,46,24.3,0,0,0,0,0,0,0,0,4,1.9,10,4.9,3,1.5
+6019475,90007,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Thirty-Second Street USC Performing Arts,All,All,TA,75,74,98.7,50,67.6,18,24.3,28,37.8,0,0,0,0,0,0,0,0,0,0,1,1.3,0,0
+6019715,91340,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Vaughn Next Century Learning Center,All,All,TA,146,142,97.3,65,45.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2.7,0,0
+6058002,91405,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Robert Fulton College Preparatory,All,All,TA,168,161,95.8,55,34.2,43,26.7,26,16.1,0,0,0,0,1,0.6,0,0,0,0,4,2.4,2,1.2
+6060461,91605,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Charles Leroy Lowman Special Education and Career Transition Center,All,All,TA,18,0,0.0,0,0,0,0,0,0,0,0,0,0,13,72.2,0,0,0,0,0,0,5,27.8
+6060529,90008,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Marlton,All,All,TA,11,7,63.6,0,0,0,0,0,0,0,0,0,0,1,9.1,0,0,0,0,1,9.1,2,18.2
+6061451,90018,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Foshay Learning Center,All,All,TA,171,171,100.0,100,58.5,47,27.5,43,25.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6061600,91352,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Sun Valley Magnet,All,All,TA,83,82,98.8,40,48.8,19,23.2,21,25.6,0,0,0,0,0,0,0,0,0,0,1,1.2,0,0
+6069157,91602,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Berenece Carlson Home Hospital,All,All,TA,75,2,2.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,62.7,26,34.7
+6116750,91342,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,PUC Community Charter Middle and PUC Community Charter Early College High,All,All,TA,102,99,97.1,90,90.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2.9,0,0
+109538,90262,2019-20,S,19,64774,Los Angeles,Lynwood Unified,Marco Antonio Firebaugh High,All,All,TA,351,331,94.3,184,55.6,75,22.7,45,13.6,0,0,0,0,7,2,0,0,0,0,12,3.4,1,0.3
+114777,90262,2019-20,S,19,64774,Los Angeles,Lynwood Unified,Pathway Independent Study,All,All,TA,111,96,86.5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,8.1,6,5.4
+1935428,90262,2019-20,S,19,64774,Los Angeles,Lynwood Unified,Vista High,All,All,TA,156,123,78.8,0,0,0,0,0,0,0,0,0,0,2,1.3,0,0,0,0,27,17.3,4,2.6
+1935436,90262,2019-20,S,19,64774,Los Angeles,Lynwood Unified,Lynwood High,All,All,TA,403,370,91.8,232,62.7,37,10,59,15.9,0,0,0,0,6,1.5,0,0,1,0.2,23,5.7,3,0.7
+1935899,91016,2019-20,S,19,64790,Los Angeles,Monrovia Unified,Canyon Oaks High,All,All,TA,58,53,91.4,1,1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3.4,3,5.2
+1935923,91016,2019-20,S,19,64790,Los Angeles,Monrovia Unified,Monrovia High,All,All,TA,344,337,98.0,211,62.6,55,16.3,86,25.5,0,0,0,0,5,1.5,0,0,0,0,0,0,2,0.6
+1996404,91016,2019-20,S,19,64790,Los Angeles,Monrovia Unified,Mountain Park,All,All,TA,14,12,85.7,3,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,14.3,0,0
+124552,90640,2019-20,S,19,64808,Los Angeles,Montebello Unified,Applied Technology Center,All,All,TA,121,120,99.2,42,35,13,10.8,44,36.7,0,0,0,0,0,0,0,0,0,0,1,0.8,0,0
+1930155,90640,2019-20,S,19,64808,Los Angeles,Montebello Unified,Schurr High,All,All,TA,678,627,92.5,137,21.9,122,19.5,195,31.1,0,0,0,0,7,1,0,0,5,0.7,39,5.8,0,0
+1930825,90201,2019-20,S,19,64808,Los Angeles,Montebello Unified,Bell Gardens High,All,All,TA,558,477,85.5,111,23.3,63,13.2,143,30,0,0,0,0,9,1.6,0,0,5,0.9,67,12,0,0
+1935998,90640,2019-20,S,19,64808,Los Angeles,Montebello Unified,Montebello High,All,All,TA,605,508,84.0,74,14.6,0,0,135,26.6,0,0,0,0,0,0,0,0,10,1.7,87,14.4,0,0
+1933647,90650,2019-20,S,19,64840,Los Angeles,Norwalk-La Mirada Unified,John H. Glenn High,All,All,TA,262,247,94.3,113,45.7,16,6.5,62,25.1,0,0,0,0,4,1.5,0,0,2,0.8,9,3.4,0,0
+1934728,90638,2019-20,S,19,64840,Los Angeles,Norwalk-La Mirada Unified,La Mirada High,All,All,TA,459,444,96.7,206,46.4,20,4.5,83,18.7,1,0.2,0,0,8,1.7,0,0,0,0,6,1.3,0,0
+1936467,90650,2019-20,S,19,64840,Los Angeles,Norwalk-La Mirada Unified,Norwalk High,All,All,TA,475,451,94.9,244,54.1,31,6.9,77,17.1,1,0.2,0,0,7,1.5,0,0,6,1.3,10,2.1,0,0
+112714,93550,2019-20,S,19,64857,Los Angeles,Palmdale Elementary,Antelope Valley Learning Academy,All,All,TA,392,66,16.8,2,3,0,0,0,0,0,0,0,0,1,0.3,0,0,11,2.8,79,20.2,235,59.9
+125377,93550,2019-20,S,19,64857,Los Angeles,Palmdale Elementary,Palmdale Aerospace Academy,All,All,TA,194,191,98.5,127,66.5,0,0,64,33.5,0,0,0,0,0,0,0,0,1,0.5,1,0.5,1,0.5
+1995588,90274,2019-20,S,19,64865,Los Angeles,Palos Verdes Peninsula Unified,Palos Verdes Peninsula High,All,All,TA,504,499,99.0,351,70.3,141,28.3,375,75.2,4,0.8,0,0,1,0.2,0,0,0,0,0,0,0,0
+1996552,90274,2019-20,S,19,64865,Los Angeles,Palos Verdes Peninsula Unified,Palos Verdes High,All,All,TA,406,400,98.5,285,71.3,71,17.8,292,73,1,0.2,0,0,4,1,0,0,0,0,1,0.2,0,0
+1936749,90723,2019-20,S,19,64873,Los Angeles,Paramount Unified,Paramount High,All,All,TA,1103,1025,92.9,488,47.6,94,9.2,186,18.1,0,0,0,0,15,1.4,0,0,6,0.5,52,4.7,5,0.5
+1936756,90712,2019-20,S,19,64873,Los Angeles,Paramount Unified,Buena Vista High,All,All,TA,135,109,80.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,14.8,6,4.4
+113464,91001,2019-20,S,19,64881,Los Angeles,Pasadena Unified,Aveson Global Leadership Academy,All,All,TA,49,43,87.8,34,79.1,0,0,0,0,0,0,0,0,3,6.1,0,0,0,0,1,2,2,4.1
+117440,91107,2019-20,S,19,64881,Los Angeles,Pasadena Unified,CIS Academy,All,All,TA,89,33,37.1,4,12.1,0,0,6,18.2,1,1.1,0,0,0,0,0,0,2,2.2,10,11.2,43,48.3
+118075,91107,2019-20,S,19,64881,Los Angeles,Pasadena Unified,Learning Works,All,All,TA,76,21,27.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,72.4,0,0
+1931062,91106,2019-20,S,19,64881,Los Angeles,Pasadena Unified,Blair High,All,All,TA,96,75,78.1,31,41.3,17,22.7,25,33.3,0,0,0,0,0,0,0,0,1,1,3,3.1,17,17.7
+1931674,91104,2019-20,S,19,64881,Los Angeles,Pasadena Unified,Marshall Fundamental,All,All,TA,243,238,97.9,180,75.6,51,21.4,111,46.6,0,0,0,0,3,1.2,1,0.4,0,0,0,0,1,0.4
+1936103,91103,2019-20,S,19,64881,Los Angeles,Pasadena Unified,John Muir High,All,All,TA,165,152,92.1,74,48.7,16,10.5,26,17.1,0,0,0,0,6,3.6,0,0,1,0.6,2,1.2,4,2.4
+1936822,91107,2019-20,S,19,64881,Los Angeles,Pasadena Unified,Pasadena High,All,All,TA,381,370,97.1,173,46.8,49,13.2,111,30,0,0,0,0,3,0.8,0,0,0,0,6,1.6,2,0.5
+115170,91767,2019-20,S,19,64907,Los Angeles,Pomona Unified,School of Extended Educational Options,All,All,TA,222,72,32.4,9,12.5,0,0,0,0,0,0,0,0,0,0,0,0,1,0.5,56,25.2,93,41.9
+1933175,91768,2019-20,S,19,64907,Los Angeles,Pomona Unified,Ganesha High,All,All,TA,238,212,89.1,87,41,24,11.3,18,8.5,0,0,0,0,0,0,0,0,1,0.4,23,9.7,2,0.8
+1933324,91766,2019-20,S,19,64907,Los Angeles,Pomona Unified,Garey High,All,All,TA,382,343,89.8,116,33.8,44,12.8,43,12.5,0,0,0,0,1,0.3,0,0,1,0.3,32,8.4,5,1.3
+1937028,91767,2019-20,S,19,64907,Los Angeles,Pomona Unified,Pomona High,All,All,TA,288,241,83.7,83,34.4,38,15.8,28,11.6,0,0,0,0,0,0,0,0,0,0,28,9.7,19,6.6
+1995901,91766,2019-20,S,19,64907,Los Angeles,Pomona Unified,Diamond Ranch High,All,All,TA,397,380,95.7,216,56.8,73,19.2,86,22.6,2,0.5,0,0,2,0.5,0,0,0,0,12,3,1,0.3
+1996495,91767,2019-20,S,19,64907,Los Angeles,Pomona Unified,Village Academy High School at Indian Hill,All,All,TA,70,68,97.1,36,52.9,14,20.6,12,17.6,0,0,0,0,0,0,0,0,0,0,2,2.9,0,0
+6061634,91766,2019-20,S,19,64907,Los Angeles,Pomona Unified,Fremont Academy of Engineering and Design,All,All,TA,75,70,93.3,36,51.4,10,14.3,11,15.7,1,1.3,0,0,0,0,0,0,0,0,4,5.3,0,0
+6061642,91767,2019-20,S,19,64907,Los Angeles,Pomona Unified,Palomares Academy of Health Science,All,All,TA,33,27,81.8,17,63,2,7.4,7,25.9,0,0,0,0,0,0,0,0,0,0,6,18.2,0,0
+1937754,91108,2019-20,S,19,64964,Los Angeles,San Marino Unified,San Marino High,All,All,TA,262,252,96.2,216,85.7,73,29,133,52.8,4,1.5,0,0,3,1.1,0,0,0,0,2,0.8,1,0.4
+1938000,90405,2019-20,S,19,64980,Los Angeles,Santa Monica-Malibu Unified,Santa Monica High,All,All,TA,655,624,95.3,473,75.8,156,25,297,47.6,3,0.5,0,0,0,0,1,0.2,0,0,14,2.1,13,2
+1995737,90265,2019-20,S,19,64980,Los Angeles,Santa Monica-Malibu Unified,Malibu High,All,All,TA,150,143,95.3,104,72.7,22,15.4,67,46.9,5,3.3,0,0,0,0,0,0,0,0,1,0.7,1,0.7
+1938455,91030,2019-20,S,19,65029,Los Angeles,South Pasadena Unified,South Pasadena Senior High,All,All,TA,323,1,0.3,0,0,0,0,0,0,3,0.9,0,0,0,0,0,0,1,0.3,316,97.8,2,0.6
+1938679,91780,2019-20,S,19,65052,Los Angeles,Temple City Unified,Temple City High,All,All,TA,487,473,97.1,315,66.6,61,12.9,270,57.1,1,0.2,0,0,8,1.6,0,0,3,0.6,1,0.2,1,0.2
+1995745,91780,2019-20,S,19,65052,Los Angeles,Temple City Unified,Dr. Doug Sears Learning Center,All,All,TA,15,14,93.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6.7,0,0
+1936277,90504,2019-20,S,19,65060,Los Angeles,Torrance Unified,North High,All,All,TA,416,387,93.0,205,53,52,13.4,185,47.8,5,1.2,0,0,0,0,1,0.2,1,0.2,17,4.1,5,1.2
+1938356,90505,2019-20,S,19,65060,Los Angeles,Torrance Unified,South High,All,All,TA,496,474,95.6,332,70,95,20,297,62.7,1,0.2,0,0,1,0.2,0,0,0,0,5,1,15,3
+1938752,90501,2019-20,S,19,65060,Los Angeles,Torrance Unified,Torrance High,All,All,TA,430,413,96.0,254,61.5,58,14,245,59.3,1,0.2,0,0,0,0,0,0,0,0,4,0.9,12,2.8
+1939602,90503,2019-20,S,19,65060,Los Angeles,Torrance Unified,West High,All,All,TA,498,490,98.4,339,69.2,102,20.8,281,57.3,6,1.2,0,0,0,0,0,0,0,0,2,0.4,0,0
+112706,93065,2019-20,S,19,65094,Los Angeles,West Covina Unified,California Virtual Academy @ Los Angeles,All,All,TA,352,258,73.3,54,20.9,3,1.2,30,11.6,9,2.6,0,0,0,0,0,0,5,1.4,60,17,20,5.7
+122432,91790,2019-20,S,19,65094,Los Angeles,West Covina Unified,Edgewood High,All,All,TA,187,179,95.7,89,49.7,37,20.7,61,34.1,0,0,0,0,0,0,0,0,3,1.6,2,1.1,3,1.6
+1939537,91791,2019-20,S,19,65094,Los Angeles,West Covina Unified,West Covina High,All,All,TA,495,474,95.8,285,60.1,43,9.1,146,30.8,0,0,0,0,13,2.6,0,0,0,0,7,1.4,1,0.2
+1931302,90604,2019-20,S,19,65128,Los Angeles,Whittier Union High,California High,All,All,TA,670,658,98.2,394,59.9,107,16.3,215,32.7,0,0,0,0,5,0.7,0,0,1,0.1,4,0.6,2,0.3
+1934868,90605,2019-20,S,19,65128,Los Angeles,Whittier Union High,La Serna High,All,All,TA,587,562,95.7,372,66.2,100,17.8,196,34.9,0,0,0,0,10,1.7,0,0,3,0.5,10,1.7,2,0.3
+1936889,90606,2019-20,S,19,65128,Los Angeles,Whittier Union High,Pioneer High,All,All,TA,273,264,96.7,169,64,50,18.9,77,29.2,0,0,0,0,7,2.6,0,0,0,0,1,0.4,1,0.4
+1937903,90670,2019-20,S,19,65128,Los Angeles,Whittier Union High,Santa Fe High,All,All,TA,512,483,94.3,304,62.9,71,14.7,183,37.9,3,0.6,0,0,18,3.5,0,0,0,0,5,1,3,0.6
+1939701,90601,2019-20,S,19,65128,Los Angeles,Whittier Union High,Whittier High,All,All,TA,405,394,97.3,247,62.7,49,12.4,114,28.9,0,0,0,0,5,1.2,0,0,0,0,4,1,2,0.5
+102459,91321,2019-20,S,19,65136,Los Angeles,William S. Hart Union High,Golden Valley High,All,All,TA,499,465,93.2,247,53.1,42,9,130,28,2,0.4,0,0,3,0.6,0,0,2,0.4,8,1.6,19,3.8
+102475,91381,2019-20,S,19,65136,Los Angeles,William S. Hart Union High,West Ranch High,All,All,TA,525,515,98.1,283,55,31,6,354,68.7,1,0.2,0,0,0,0,2,0.4,1,0.2,3,0.6,3,0.6
+112359,91350,2019-20,S,19,65136,Los Angeles,William S. Hart Union High,Sequoia School,All,All,TA,12,11,91.7,1,9.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8.3,0,0
+114439,91355,2019-20,S,19,65136,Los Angeles,William S. Hart Union High,Mission View Public,All,All,TA,124,37,29.8,1,2.7,0,0,0,0,2,1.6,0,0,1,0.8,0,0,2,1.6,15,12.1,67,54
+117234,91384,2019-20,S,19,65136,Los Angeles,William S. Hart Union High,Santa Clarita Valley International,All,All,TA,69,62,89.9,41,66.1,0,0,17,27.4,4,5.8,0,0,0,0,0,0,2,2.9,1,1.4,0,0
+1931492,91351,2019-20,S,19,65136,Los Angeles,William S. Hart Union High,Canyon High,All,All,TA,505,497,98.4,216,43.5,75,15.1,198,39.8,0,0,0,0,0,0,0,0,0,0,6,1.2,2,0.4
+1931740,91350,2019-20,S,19,65136,Los Angeles,William S. Hart Union High,Saugus High,All,All,TA,584,575,98.5,279,48.5,39,6.8,154,26.8,0,0,0,0,0,0,0,0,0,0,9,1.5,0,0
+1933902,91321,2019-20,S,19,65136,Los Angeles,William S. Hart Union High,William S. Hart High,All,All,TA,542,511,94.3,249,48.7,37,7.2,214,41.9,0,0,1,0.2,1,0.2,0,0,4,0.7,11,2,14,2.6
+1995802,91355,2019-20,S,19,65136,Los Angeles,William S. Hart Union High,Valencia High,All,All,TA,642,617,96.1,353,57.2,27,4.4,296,48,0,0,0,0,0,0,0,0,0,0,7,1.1,18,2.8
+1996263,91355,2019-20,S,19,65136,Los Angeles,William S. Hart Union High,Opportunities for Learning - Santa Clarita,All,All,TA,209,59,28.2,13,22,0,0,3,5.1,3,1.4,0,0,0,0,0,0,4,1.9,60,28.7,83,39.7
+1996321,91355,2019-20,S,19,65136,Los Angeles,William S. Hart Union High,Academy of the Canyons,All,All,TA,102,101,99.0,100,99,1,1,86,85.1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+132969,90222,2019-20,S,19,73437,Los Angeles,Compton Unified,Compton Early College High,All,All,TA,77,77,100.0,77,100,42,54.5,60,77.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1931567,90222,2019-20,S,19,73437,Los Angeles,Compton Unified,Centennial High,All,All,TA,202,186,92.1,102,54.8,15,8.1,58,31.2,0,0,0,0,1,0.5,0,0,0,0,13,6.4,2,1
+1931963,90220,2019-20,S,19,73437,Los Angeles,Compton Unified,Compton High,All,All,TA,369,333,90.2,194,58.3,60,18,121,36.3,0,0,0,0,9,2.4,0,0,0,0,23,6.2,4,1.1
+1932326,90221,2019-20,S,19,73437,Los Angeles,Compton Unified,Dominguez High,All,All,TA,384,355,92.4,203,57.2,53,14.9,127,35.8,0,0,0,0,3,0.8,1,0.3,0,0,23,6,2,0.5
+1996057,90220,2019-20,S,19,73437,Los Angeles,Compton Unified,Thurgood Marshall,All,All,TA,43,19,44.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,44.2,5,11.6
+1933316,91746,2019-20,S,19,73445,Los Angeles,Hacienda la Puente Unified,Puente Hills High,All,All,TA,30,27,90.0,2,7.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6.7,1,3.3
+1934801,91744,2019-20,S,19,73445,Los Angeles,Hacienda la Puente Unified,La Puente High,All,All,TA,244,241,98.8,122,50.6,38,15.8,42,17.4,0,0,0,0,0,0,0,0,1,0.4,1,0.4,1,0.4
+1935246,91745,2019-20,S,19,73445,Los Angeles,Hacienda la Puente Unified,Los Altos High,All,All,TA,377,368,97.6,211,57.3,30,8.2,97,26.4,0,0,0,0,2,0.5,0,0,1,0.3,4,1.1,2,0.5
+1939834,91745,2019-20,S,19,73445,Los Angeles,Hacienda la Puente Unified,Glen A. Wilson High,All,All,TA,369,358,97.0,213,59.5,76,21.2,163,45.5,4,1.1,0,0,1,0.3,0,0,1,0.3,1,0.3,4,1.1
+1939925,91744,2019-20,S,19,73445,Los Angeles,Hacienda la Puente Unified,William Workman High,All,All,TA,258,246,95.3,110,44.7,50,20.3,63,25.6,0,0,0,0,7,2.7,0,0,1,0.4,2,0.8,2,0.8
+111070,91744,2019-20,S,19,73452,Los Angeles,Rowland Unified,Rowland Assistive Technology Academy,All,All,TA,16,1,6.3,0,0,0,0,0,0,0,0,0,0,15,93.8,0,0,0,0,0,0,0,0
+120600,93065,2019-20,S,19,73452,Los Angeles,Rowland Unified,iQ Academy California-Los Angeles,All,All,TA,105,72,68.6,2,2.8,0,0,16,22.2,0,0,0,0,0,0,0,0,0,0,20,19,13,12.4
+1936228,91744,2019-20,S,19,73452,Los Angeles,Rowland Unified,Nogales High,All,All,TA,447,416,93.1,160,38.5,68,16.3,85,20.4,0,0,0,0,0,0,0,0,3,0.7,27,6,1,0.2
+1937564,91748,2019-20,S,19,73452,Los Angeles,Rowland Unified,John A. Rowland High,All,All,TA,486,453,93.2,256,56.5,146,32.2,147,32.5,2,0.4,0,0,0,0,0,0,5,1,23,4.7,3,0.6
+1932862,91765,2019-20,S,19,73460,Los Angeles,Walnut Valley Unified,Diamond Bar High,All,All,TA,724,703,97.1,530,75.4,0,0,0,0,7,1,0,0,3,0.4,0,0,2,0.3,9,1.2,0,0
+1939149,91789,2019-20,S,19,73460,Los Angeles,Walnut Valley Unified,Walnut High,All,All,TA,608,583,95.9,370,63.5,0,0,0,0,9,1.5,0,0,6,1,0,0,1,0.2,9,1.5,0,0
+1995810,91776,2019-20,S,19,75291,Los Angeles,San Gabriel Unified,Gabrielino High,All,All,TA,415,392,94.5,234,59.7,53,13.5,161,41.1,1,0.2,0,0,4,1,0,0,0,0,17,4.1,1,0.2
+1996016,91776,2019-20,S,19,75291,Los Angeles,San Gabriel Unified,Options for Youth San Gabriel,All,All,TA,270,81,30.0,32,39.5,0,0,8,9.9,2,0.7,0,0,0,0,0,0,22,8.1,80,29.6,85,31.5
+1996081,91776,2019-20,S,19,75291,Los Angeles,San Gabriel Unified,Del Mar High,All,All,TA,29,24,82.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,13.8,1,3.4
+127100,93535,2019-20,S,19,75309,Los Angeles,Acton-Agua Dulce Unified,Assurance Learning Academy,All,All,TA,1024,124,12.1,3,2.4,0,0,0,0,0,0,0,0,1,0.1,1,0.1,12,1.2,216,21.1,670,65.4
+131383,90033,2019-20,S,19,75309,Los Angeles,Acton-Agua Dulce Unified,SIATech Academy South,All,All,TA,89,8,9.0,1,12.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81,91,0,0
+131987,93510,2019-20,S,19,75309,Los Angeles,Acton-Agua Dulce Unified,iLEAD Hybrid,All,All,TA,109,91,83.5,7,7.7,0,0,0,0,4,3.7,0,0,0,0,1,0.9,6,5.5,4,3.7,3,2.8
+132654,92069,2019-20,S,19,75309,Los Angeles,Acton-Agua Dulce Unified,Community Collaborative Charter,All,All,TA,88,44,50.0,4,9.1,0,0,3,6.8,2,2.3,0,0,1,1.1,0,0,1,1.1,17,19.3,23,26.1
+134619,93535,2019-20,S,19,75309,Los Angeles,Acton-Agua Dulce Unified,Empower Generations,All,All,TA,19,11,57.9,1,9.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,42.1,0,0
+135145,91361,2019-20,S,19,75309,Los Angeles,Acton-Agua Dulce Unified,Compass Charter Schools of Los Angeles,All,All,TA,75,28,37.3,8,28.6,0,0,14,50,0,0,0,0,0,0,0,0,0,0,32,42.7,15,20
+136531,93510,2019-20,S,19,75309,Los Angeles,Acton-Agua Dulce Unified,iLEAD Online,All,All,TA,22,18,81.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,18.2,0,0
+136648,92337,2019-20,S,19,75309,Los Angeles,Acton-Agua Dulce Unified,Options for Youth-Acton,All,All,TA,746,162,21.7,37,22.8,0,0,7,4.3,1,0.1,0,0,1,0.1,0,0,37,5,230,30.8,315,42.2
+137786,93570,2019-20,S,19,75309,Los Angeles,Acton-Agua Dulce Unified,Mission Academy,All,All,TA,146,18,12.3,0,0,0,0,0,0,0,0,0,0,0,0,1,0.7,3,2.1,35,24,89,61
+1995786,93510,2019-20,S,19,75309,Los Angeles,Acton-Agua Dulce Unified,Vasquez High,All,All,TA,84,79,94.0,23,29.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4.8,1,1.2
+1935808,90266,2019-20,S,19,75333,Los Angeles,Manhattan Beach Unified,Mira Costa High,All,All,TA,679,660,97.2,545,82.6,147,22.3,354,53.6,2,0.3,0,0,4,0.6,0,0,2,0.3,5,0.7,6,0.9
+1937143,90277,2019-20,S,19,75341,Los Angeles,Redondo Beach Unified,Redondo Union High,All,All,TA,722,702,97.2,465,66.2,70,10,319,45.4,5,0.7,0,0,10,1.4,1,0.1,0,0,2,0.3,2,0.3
+6120158,90025,2019-20,S,19,75663,Los Angeles,SBE - New West Charter,New West Charter,All,All,TA,88,85,96.6,85,100,0,0,0,0,0,0,0,0,0,0,0,0,1,1.1,0,0,2,2.3
+1996693,91767,2019-20,S,19,75697,Los Angeles,SBE - The School of Arts and Enterprise,School of Arts and Enterprise,All,All,TA,84,78,92.9,66,84.6,0,0,0,0,0,0,0,0,2,2.4,0,0,0,0,0,0,4,4.8
+1930122,91801,2019-20,S,19,75713,Los Angeles,Alhambra Unified,Century High,All,All,TA,57,53,93.0,0,0,0,0,0,0,1,1.8,0,0,0,0,0,0,0,0,2,3.5,1,1.8
+1930163,91801,2019-20,S,19,75713,Los Angeles,Alhambra Unified,Alhambra High,All,All,TA,554,532,96.0,351,66,93,17.5,240,45.1,0,0,0,0,8,1.4,0,0,0,0,8,1.4,6,1.1
+1934553,91801,2019-20,S,19,75713,Los Angeles,Alhambra Unified,Mark Keppel High,All,All,TA,552,526,95.3,343,65.2,86,16.3,222,42.2,3,0.5,0,0,6,1.1,0,0,1,0.2,6,1.1,10,1.8
+1937697,91776,2019-20,S,19,75713,Los Angeles,Alhambra Unified,San Gabriel High,All,All,TA,502,469,93.4,309,65.9,36,7.7,253,53.9,0,0,0,0,0,0,0,0,15,3,6,1.2,12,2.4
+119016,90245,2019-20,S,19,76869,Los Angeles,Wiseburn Unified,Da Vinci Science,All,All,TA,143,128,89.5,119,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.7,14,9.8
+119636,90250,2019-20,S,19,76869,Los Angeles,Wiseburn Unified,Da Vinci Design,All,All,TA,137,128,93.4,121,94.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.7,8,5.8
+131128,90245,2019-20,S,19,76869,Los Angeles,Wiseburn Unified,Da Vinci Communications,All,All,TA,71,62,87.3,53,85.5,0,0,0,0,0,0,0,0,5,7,0,0,0,0,1,1.4,3,4.2
+132928,90032,2019-20,S,19,64733,Los Angeles,Los Angeles Unified,Anahuacalmecac International University Preparatory of North America,All,All,TA,18,18,100.0,15,83.3,2,11.1,8,44.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109926,90042,2019-20,S,19,76968,Los Angeles,SBE - Academia Avance Charter,Academia Avance Charter,All,All,TA,57,49,86.0,29,59.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3.5,6,10.5
+133900,90201,2019-20,S,19,76992,Los Angeles,SBE - Prepa Tec Los Angeles High,Prepa Tec Los Angeles High,All,All,TA,73,65,89.0,65,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4.1,5,6.8
+126037,92706,2019-20,S,30,10306,Orange,Orange County Department of Education,Samueli Academy,All,All,TA,106,103,97.2,60,58.3,26,25.2,37,35.9,1,0.9,0,0,0,0,0,0,0,0,2,1.9,0,0
+132910,92705,2019-20,S,30,10306,Orange,Orange County Department of Education,College and Career Preparatory Academy,All,All,TA,45,6,13.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,28.9,26,57.8
+133959,92868,2019-20,S,30,10306,Orange,Orange County Department of Education,Unity Middle College High,All,All,TA,24,23,95.8,20,87,0,0,0,0,1,4.2,0,0,0,0,0,0,0,0,0,0,0,0
+133983,92705,2019-20,S,30,10306,Orange,Orange County Department of Education,Ednovate - Legacy College Prep.,All,All,TA,92,86,93.5,86,100,0,0,0,0,0,0,0,0,0,0,1,1.1,1,1.1,1,1.1,3,3.3
+134239,92805,2019-20,S,30,10306,Orange,Orange County Department of Education,EPIC Charter (Excellence Performance Innovation Citizenship),All,All,TA,44,20,45.5,1,5,0,0,2,10,0,0,0,0,0,0,1,2.3,1,2.3,22,50,0,0
+134841,92805,2019-20,S,30,10306,Orange,Orange County Department of Education,Orange County Workforce Innovation High,All,All,TA,81,15,18.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3.7,16,19.8,47,58
+138800,92692,2019-20,S,30,10306,Orange,Orange County Department of Education,National University Academy Homeschool/Independent Study Orange County,All,All,TA,12,1,8.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,33.3,7,58.3
+3030632,92626,2019-20,S,30,10306,Orange,Orange County Department of Education,OCCS:CHEP/PCHS,All,All,TA,104,89,85.6,3,3.4,0,0,0,0,1,1,0,0,0,0,0,0,0,0,9,8.7,5,4.8
+3030764,92628,2019-20,S,30,10306,Orange,Orange County Department of Education,ACCESS County Community,All,All,TA,880,255,29.0,0,0,0,0,0,0,3,0.3,0,0,0,0,11,1.3,40,4.5,240,27.3,331,37.6
+6069553,92628,2019-20,S,30,10306,Orange,Orange County Department of Education,Orange County Special Education,All,All,TA,21,11,52.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4.8,9,42.9
+3030038,90630,2019-20,S,30,66431,Orange,Anaheim Union High,Cypress High,All,All,TA,657,641,97.6,498,77.7,151,23.6,243,37.9,5,0.8,0,0,4,0.6,0,0,5,0.8,1,0.2,1,0.2
+3030228,92805,2019-20,S,30,66431,Orange,Anaheim Union High,Anaheim High,All,All,TA,750,702,93.6,318,45.3,133,18.9,112,16,0,0,0,0,11,1.5,0,0,3,0.4,25,3.3,9,1.2
+3030616,90630,2019-20,S,30,66431,Orange,Anaheim Union High,Oxford Academy,All,All,TA,186,183,98.4,174,95.1,136,74.3,165,90.2,3,1.6,0,0,0,0,0,0,0,0,0,0,0,0
+3033057,92806,2019-20,S,30,66431,Orange,Anaheim Union High,Katella High,All,All,TA,640,622,97.2,367,59,132,21.2,115,18.5,0,0,0,0,2,0.3,0,0,0,0,10,1.6,6,0.9
+3033115,90623,2019-20,S,30,66431,Orange,Anaheim Union High,John F. Kennedy High,All,All,TA,564,541,95.9,298,55.1,149,27.5,195,36,4,0.7,0,0,7,1.2,0,0,3,0.5,7,1.2,2,0.4
+3033784,92804,2019-20,S,30,66431,Orange,Anaheim Union High,Loara High,All,All,TA,468,433,92.5,234,54,114,26.3,87,20.1,0,0,0,0,12,2.6,0,0,3,0.6,16,3.4,4,0.9
+3034204,92804,2019-20,S,30,66431,Orange,Anaheim Union High,Magnolia High,All,All,TA,339,310,91.4,122,39.4,45,14.5,44,14.2,2,0.6,0,0,8,2.4,0,0,0,0,11,3.2,8,2.4
+3036712,92801,2019-20,S,30,66431,Orange,Anaheim Union High,Savanna High,All,All,TA,413,388,93.9,178,45.9,90,23.2,64,16.5,0,0,0,0,7,1.7,0,0,1,0.2,14,3.4,3,0.7
+3038239,92804,2019-20,S,30,66431,Orange,Anaheim Union High,Western High,All,All,TA,486,474,97.5,201,42.4,104,21.9,74,15.6,0,0,1,0.2,3,0.6,0,0,0,0,5,1,3,0.6
+6066815,90620,2019-20,S,30,66431,Orange,Anaheim Union High,Hope,All,All,TA,18,0,0.0,0,0,0,0,0,0,0,0,0,0,18,100,0,0,0,0,0,0,0,0
+3030640,92821,2019-20,S,30,66449,Orange,Brea-Olinda Unified,Brea-Olinda High,All,All,TA,410,391,95.4,213,54.5,48,12.3,117,29.9,3,0.7,0,0,4,1,0,0,0,0,12,2.9,0,0
+106765,92675,2019-20,S,30,66464,Orange,Capistrano Unified,California Connections Academy Southern California,All,All,TA,751,487,64.8,144,29.6,18,3.7,0,0,19,2.5,0,0,0,0,2,0.3,8,1.1,235,31.3,0,0
+113381,92675,2019-20,S,30,66464,Orange,Capistrano Unified,San Juan Hills High,All,All,TA,581,571,98.3,377,66,149,26.1,197,34.5,5,0.9,0,0,1,0.2,0,0,0,0,4,0.7,0,0
+124131,92675,2019-20,S,30,66464,Orange,Capistrano Unified,California Preparatory Academy,All,All,TA,48,45,93.8,24,53.3,8,17.8,14,31.1,3,6.3,0,0,0,0,0,0,0,0,0,0,0,0
+3030210,92692,2019-20,S,30,66464,Orange,Capistrano Unified,Capistrano Valley High,All,All,TA,528,505,95.6,287,56.8,130,25.7,208,41.2,5,0.9,0,0,0,0,0,0,0,0,10,1.9,8,1.5
+3030574,92656,2019-20,S,30,66464,Orange,Capistrano Unified,Aliso Niguel High,All,All,TA,756,741,98.0,480,64.8,178,24,325,43.9,8,1.1,0,0,0,0,1,0.1,0,0,4,0.5,2,0.3
+3030756,92688,2019-20,S,30,66464,Orange,Capistrano Unified,Tesoro High,All,All,TA,623,595,95.5,416,69.9,138,23.2,298,50.1,3,0.5,0,0,6,1,0,0,7,1.1,7,1.1,5,0.8
+3035987,92675,2019-20,S,30,66464,Orange,Capistrano Unified,Junipero Serra High,All,All,TA,99,87,87.9,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,9,9.1,2,2
+3036001,92673,2019-20,S,30,66464,Orange,Capistrano Unified,San Clemente High,All,All,TA,686,653,95.2,425,65.1,152,23.3,186,28.5,4,0.6,0,0,12,1.7,0,0,1,0.1,15,2.2,1,0.1
+3038569,92629,2019-20,S,30,66464,Orange,Capistrano Unified,Dana Hills High,All,All,TA,613,586,95.6,350,59.7,83,14.2,188,32.1,7,1.1,0,0,9,1.5,0,0,0,0,6,1,5,0.8
+6120356,92675,2019-20,S,30,66464,Orange,Capistrano Unified,Opportunities for Learning - Capistrano,All,All,TA,69,17,24.6,11,64.7,0,0,2,11.8,1,1.4,0,0,0,0,1,1.4,0,0,19,27.5,31,44.9
+3030855,90621,2019-20,S,30,66514,Orange,Fullerton Joint Union High,Buena Park High,All,All,TA,411,390,94.9,171,43.8,0,0,113,29,0,0,0,0,3,0.7,0,0,0,0,17,4.1,1,0.2
+3032505,92832,2019-20,S,30,66514,Orange,Fullerton Joint Union High,Fullerton Union High,All,All,TA,488,473,96.9,233,49.3,0,0,0,0,1,0.2,0,0,0,0,0,0,2,0.4,12,2.5,0,0
+3033362,90631,2019-20,S,30,66514,Orange,Fullerton Joint Union High,La Habra High,All,All,TA,530,516,97.4,286,55.4,75,14.5,200,38.8,0,0,0,0,0,0,0,0,1,0.2,13,2.5,0,0
+3037090,90631,2019-20,S,30,66514,Orange,Fullerton Joint Union High,Sonora High,All,All,TA,404,383,94.8,216,56.4,111,29,0,0,1,0.2,0,0,16,4,0,0,0,0,4,1,0,0
+3037348,92833,2019-20,S,30,66514,Orange,Fullerton Joint Union High,Sunny Hills High,All,All,TA,534,526,98.5,368,70,155,29.5,0,0,5,0.9,0,0,1,0.2,0,0,0,0,2,0.4,0,0
+3037496,92831,2019-20,S,30,66514,Orange,Fullerton Joint Union High,Troy High,All,All,TA,630,611,97.0,449,73.5,0,0,413,67.6,2,0.3,0,0,15,2.4,0,0,0,0,2,0.3,0,0
+3030103,92841,2019-20,S,30,66522,Orange,Garden Grove Unified,Marie L. Hare High,All,All,TA,96,80,83.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,15.6,1,1
+3030434,92844,2019-20,S,30,66522,Orange,Garden Grove Unified,Bolsa Grande High,All,All,TA,461,443,96.1,281,63.4,114,25.7,201,45.4,1,0.2,0,0,0,0,0,0,0,0,12,2.6,5,1.1
+3032752,92840,2019-20,S,30,66522,Orange,Garden Grove Unified,Garden Grove High,All,All,TA,538,514,95.5,304,59.1,99,19.3,216,42,0,0,0,0,0,0,0,0,0,0,19,3.5,5,0.9
+3033578,92683,2019-20,S,30,66522,Orange,Garden Grove Unified,La Quinta High,All,All,TA,544,506,93.0,389,76.9,163,32.2,320,63.2,2,0.4,0,0,9,1.7,0,0,0,0,21,3.9,6,1.1
+3033933,92708,2019-20,S,30,66522,Orange,Garden Grove Unified,Los Amigos High,All,All,TA,414,381,92.0,209,54.9,56,14.7,109,28.6,1,0.2,0,0,8,1.9,0,0,1,0.2,16,3.9,7,1.7
+3035581,92845,2019-20,S,30,66522,Orange,Garden Grove Unified,Pacifica High,All,All,TA,374,360,96.3,248,68.9,59,16.4,181,50.3,1,0.3,0,0,7,1.9,0,0,0,0,3,0.8,3,0.8
+3035706,92841,2019-20,S,30,66522,Orange,Garden Grove Unified,Rancho Alamitos High,All,All,TA,421,386,91.7,218,56.5,76,19.7,170,44,2,0.5,0,0,11,2.6,1,0.2,0,0,18,4.3,3,0.7
+3036555,92843,2019-20,S,30,66522,Orange,Garden Grove Unified,Santiago High,All,All,TA,454,438,96.5,268,61.2,65,14.8,180,41.1,0,0,0,0,0,0,0,0,0,0,11,2.4,5,1.1
+3030145,92647,2019-20,S,30,66548,Orange,Huntington Beach Union High,Ocean View High,All,All,TA,286,266,93.0,127,47.7,56,21.1,93,35,0,0,0,0,9,3.1,0,0,2,0.7,6,2.1,3,1
+3030368,92647,2019-20,S,30,66548,Orange,Huntington Beach Union High,Coast High,All,All,TA,86,69,80.2,5,7.2,0,0,1,1.4,5,5.8,0,0,0,0,0,0,6,7,5,5.8,1,1.2
+3031895,92646,2019-20,S,30,66548,Orange,Huntington Beach Union High,Edison High,All,All,TA,506,482,95.3,228,47.3,189,39.2,193,40,0,0,0,0,22,4.3,0,0,1,0.2,0,0,1,0.2
+3032158,92708,2019-20,S,30,66548,Orange,Huntington Beach Union High,Fountain Valley High,All,All,TA,867,822,94.8,504,61.3,303,36.9,353,42.9,28,3.2,0,0,5,0.6,0,0,1,0.1,6,0.7,5,0.6
+3032943,92648,2019-20,S,30,66548,Orange,Huntington Beach Union High,Huntington Beach High,All,All,TA,707,692,97.9,411,59.4,247,35.7,291,42.1,6,0.8,0,0,1,0.1,0,0,3,0.4,5,0.7,0,0
+3034410,92649,2019-20,S,30,66548,Orange,Huntington Beach Union High,Marina High,All,All,TA,558,535,95.9,289,54,135,25.2,199,37.2,4,0.7,0,0,1,0.2,0,0,3,0.5,10,1.8,5,0.9
+3038445,92683,2019-20,S,30,66548,Orange,Huntington Beach Union High,Westminster High,All,All,TA,720,668,92.8,358,53.6,136,20.4,253,37.9,3,0.4,0,0,12,1.7,0,0,5,0.7,20,2.8,12,1.7
+3033206,92651,2019-20,S,30,66555,Orange,Laguna Beach Unified,Laguna Beach High,All,All,TA,256,252,98.4,199,79,109,43.3,125,49.6,0,0,0,0,3,1.2,0,0,0,0,1,0.4,0,0
+111666,92626,2019-20,S,30,66597,Orange,Newport-Mesa Unified,Early College High,All,All,TA,50,49,98.0,38,77.6,6,12.2,16,32.7,0,0,0,0,0,0,0,0,0,0,1,2,0,0
+3030186,92627,2019-20,S,30,66597,Orange,Newport-Mesa Unified,Monte Vista High,All,All,TA,51,41,80.4,5,12.2,0,0,3,7.3,5,9.8,0,0,0,0,0,0,0,0,5,9.8,0,0
+3031697,92660,2019-20,S,30,66597,Orange,Newport-Mesa Unified,Corona del Mar High,All,All,TA,438,399,91.1,327,82,92,23.1,250,62.7,0,0,0,0,7,1.6,0,0,0,0,32,7.3,0,0
+3031853,92626,2019-20,S,30,66597,Orange,Newport-Mesa Unified,Costa Mesa High,All,All,TA,282,264,93.6,147,55.7,59,22.3,79,29.9,1,0.4,0,0,2,0.7,0,0,1,0.4,11,3.9,3,1.1
+3032000,92627,2019-20,S,30,66597,Orange,Newport-Mesa Unified,Estancia High,All,All,TA,278,246,88.5,132,53.7,49,19.9,58,23.6,0,0,0,0,20,7.2,0,0,1,0.4,7,2.5,4,1.4
+3034907,92627,2019-20,S,30,66597,Orange,Newport-Mesa Unified,Back Bay High,All,All,TA,98,47,48.0,0,0,0,0,1,2.1,1,1,0,0,0,0,0,0,0,0,35,35.7,15,15.3
+3035045,92663,2019-20,S,30,66597,Orange,Newport-Mesa Unified,Newport Harbor High,All,All,TA,533,487,91.4,324,66.5,91,18.7,202,41.5,5,0.9,0,0,1,0.2,0,0,1,0.2,35,6.6,4,0.8
+118174,92869,2019-20,S,30,66621,Orange,Orange Unified,OUSD Home Sch,All,All,TA,27,25,92.6,4,16,0,0,0,0,0,0,1,3.7,0,0,0,0,0,0,1,3.7,0,0
+3030046,92807,2019-20,S,30,66621,Orange,Orange Unified,Canyon High,All,All,TA,512,478,93.4,257,53.8,124,25.9,194,40.6,5,1,0,0,0,0,0,0,3,0.6,26,5.1,0,0
+3031952,92869,2019-20,S,30,66621,Orange,Orange Unified,El Modena High,All,All,TA,497,477,96.0,268,56.2,0,0,0,0,1,0.2,0,0,0,0,0,0,1,0.2,18,3.6,0,0
+3035409,92867,2019-20,S,30,66621,Orange,Orange Unified,Orange High,All,All,TA,416,392,94.2,112,28.6,25,6.4,44,11.2,0,0,0,0,0,0,0,0,0,0,24,5.8,0,0
+3038098,92861,2019-20,S,30,66621,Orange,Orange Unified,Villa Park High,All,All,TA,535,513,95.9,273,53.2,110,21.4,135,26.3,3,0.6,1,0.2,0,0,0,0,0,0,18,3.4,0,0
+119404,92886,2019-20,S,30,66647,Orange,Placentia-Yorba Linda Unified,Yorba Linda High,All,All,TA,442,436,98.6,281,64.4,101,23.2,229,52.5,2,0.5,0,0,1,0.2,0,0,1,0.2,2,0.5,0,0
+3030053,92807,2019-20,S,30,66647,Orange,Placentia-Yorba Linda Unified,Esperanza High,All,All,TA,386,368,95.3,179,48.6,54,14.7,143,38.9,5,1.3,0,0,10,2.6,0,0,0,0,3,0.8,0,0
+3030483,92886,2019-20,S,30,66647,Orange,Placentia-Yorba Linda Unified,La Entrada High,All,All,TA,53,49,92.5,10,20.4,2,4.1,13,26.5,2,3.8,0,0,0,0,0,0,0,0,2,3.8,0,0
+3031929,92870,2019-20,S,30,66647,Orange,Placentia-Yorba Linda Unified,El Dorado High,All,All,TA,445,437,98.2,254,58.1,101,23.1,158,36.2,0,0,0,0,2,0.4,0,0,0,0,5,1.1,1,0.2
+3038023,92870,2019-20,S,30,66647,Orange,Placentia-Yorba Linda Unified,Valencia High,All,All,TA,626,604,96.5,286,47.4,163,27,243,40.2,2,0.3,0,0,9,1.4,0,0,0,0,9,1.4,2,0.3
+6119556,92870,2019-20,S,30,66647,Orange,Placentia-Yorba Linda Unified,Parkview,All,All,TA,32,29,90.6,15,51.7,0,0,12,41.4,3,9.4,0,0,0,0,0,0,0,0,0,0,0,0
+106567,92701,2019-20,S,30,66670,Orange,Santa Ana Unified,Nova Academy Early College High,All,All,TA,106,98,92.5,64,65.3,20,20.4,20,20.4,0,0,0,0,0,0,0,0,0,0,8,7.5,0,0
+108365,92704,2019-20,S,30,66670,Orange,Santa Ana Unified,Segerstrom High,All,All,TA,618,613,99.2,310,50.6,131,21.4,220,35.9,1,0.2,0,0,2,0.3,0,0,0,0,2,0.3,0,0
+114736,92704,2019-20,S,30,66670,Orange,Santa Ana Unified,Hector G. Godinez,All,All,TA,546,543,99.5,308,56.7,171,31.5,279,51.4,0,0,0,0,0,0,0,0,0,0,1,0.2,2,0.4
+3030475,92707,2019-20,S,30,66670,Orange,Santa Ana Unified,Cesar E. Chavez High,All,All,TA,253,188,74.3,1,0.5,3,1.6,0,0,0,0,0,0,0,0,0,0,2,0.8,9,3.6,54,21.3
+3030491,92705,2019-20,S,30,66670,Orange,Santa Ana Unified,Century High,All,All,TA,301,272,90.4,78,28.7,74,27.2,86,31.6,0,0,0,0,9,3,0,0,4,1.3,13,4.3,3,1
+3030608,92706,2019-20,S,30,66670,Orange,Santa Ana Unified,Middle College High,All,All,TA,80,80,100.0,78,97.5,22,27.5,56,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3030723,92701,2019-20,S,30,66670,Orange,Santa Ana Unified,OCSA,All,All,TA,417,412,98.8,372,90.3,149,36.2,224,54.4,2,0.5,0,0,0,0,0,0,1,0.2,2,0.5,0,0
+3034998,92704,2019-20,S,30,66670,Orange,Santa Ana Unified,Lorin Griset Academy,All,All,TA,230,147,63.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2.6,14,6.1,63,27.4
+3035821,92707,2019-20,S,30,66670,Orange,Santa Ana Unified,Saddleback High,All,All,TA,304,285,93.8,99,34.7,52,18.2,77,27,0,0,0,0,13,4.3,0,0,2,0.7,3,1,1,0.3
+3036357,92701,2019-20,S,30,66670,Orange,Santa Ana Unified,Santa Ana High,All,All,TA,670,607,90.6,229,37.7,110,18.1,221,36.4,0,0,0,0,22,3.3,0,0,1,0.1,34,5.1,6,0.9
+3036456,92704,2019-20,S,30,66670,Orange,Santa Ana Unified,Valley High,All,All,TA,488,435,89.1,214,49.2,85,19.5,168,38.6,0,0,0,0,18,3.7,0,0,19,3.9,16,3.3,0,0
+6115133,92703,2019-20,S,30,66670,Orange,Santa Ana Unified,REACH Academy,All,All,TA,15,8,53.3,1,12.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,20,4,26.7
+3030061,92630,2019-20,S,30,73635,Orange,Saddleback Valley Unified,El Toro High,All,All,TA,578,551,95.3,272,49.4,105,19.1,227,41.2,1,0.2,0,0,7,1.2,0,0,0,0,17,2.9,2,0.3
+3030079,92691,2019-20,S,30,73635,Orange,Saddleback Valley Unified,Silverado High,All,All,TA,110,58,52.7,0,0,0,0,0,0,4,3.6,7,6.4,0,0,0,0,3,2.7,19,17.3,19,17.3
+3030244,92653,2019-20,S,30,73635,Orange,Saddleback Valley Unified,Laguna Hills High,All,All,TA,364,361,99.2,164,45.4,96,26.6,147,40.7,2,0.5,0,0,0,0,0,0,1,0.3,0,0,0,0
+3030392,92691,2019-20,S,30,73635,Orange,Saddleback Valley Unified,Trabuco Hills High,All,All,TA,685,647,94.5,301,46.5,104,16.1,271,41.9,11,1.6,0,0,0,0,1,0.1,0,0,21,3.1,5,0.7
+3034956,92691,2019-20,S,30,73635,Orange,Saddleback Valley Unified,Mission Viejo High,All,All,TA,493,467,94.7,239,51.2,91,19.5,194,41.5,2,0.4,0,0,0,0,0,0,5,1,18,3.7,1,0.2
+102871,92602,2019-20,S,30,73643,Orange,Tustin Unified,Arnold O. Beckman High,All,All,TA,679,653,96.2,507,77.6,89,13.6,0,0,3,0.4,0,0,9,1.3,0,0,6,0.9,7,1,1,0.1
+3030590,92780,2019-20,S,30,73643,Orange,Tustin Unified,Tustin Connect,All,All,TA,49,40,81.6,12,30,1,2.5,1,2.5,2,4.1,0,0,0,0,0,0,0,0,7,14.3,0,0
+3032109,92705,2019-20,S,30,73643,Orange,Tustin Unified,Foothill High,All,All,TA,615,599,97.4,386,64.4,139,23.2,258,43.1,0,0,0,0,4,0.7,0,0,2,0.3,8,1.3,2,0.3
+3037553,92780,2019-20,S,30,73643,Orange,Tustin Unified,Tustin High,All,All,TA,488,463,94.9,290,62.6,76,16.4,0,0,0,0,0,0,7,1.4,0,0,5,1,13,2.7,0,0
+133405,92618,2019-20,S,30,73650,Orange,Irvine Unified,Portola High,All,All,TA,441,411,93.2,316,76.9,133,32.4,241,58.6,1,0.2,0,0,6,1.4,0,0,2,0.5,20,4.5,1,0.2
+3030129,92606,2019-20,S,30,73650,Orange,Irvine Unified,Creekside High,All,All,TA,73,54,74.0,0,0,0,0,0,0,1,1.4,0,0,0,0,0,0,0,0,11,15.1,7,9.6
+3030152,92604,2019-20,S,30,73650,Orange,Irvine Unified,Irvine High,All,All,TA,484,464,95.9,298,64.2,97,20.9,252,54.3,0,0,0,0,5,1,0,0,4,0.8,8,1.7,3,0.6
+3030285,92604,2019-20,S,30,73650,Orange,Irvine Unified,Woodbridge High,All,All,TA,593,562,94.8,429,76.3,110,19.6,333,59.3,5,0.8,0,0,11,1.9,0,0,0,0,14,2.4,1,0.2
+3030657,92620,2019-20,S,30,73650,Orange,Irvine Unified,Northwood High,All,All,TA,515,504,97.9,385,76.4,150,29.8,318,63.1,6,1.2,0,0,1,0.2,0,0,0,0,3,0.6,1,0.2
+3035102,92612,2019-20,S,30,73650,Orange,Irvine Unified,University High,All,All,TA,559,532,95.2,408,76.7,219,41.2,342,64.3,14,2.5,0,0,4,0.7,0,0,2,0.4,5,0.9,2,0.4
+3033917,90720,2019-20,S,30,73924,Orange,Los Alamitos Unified,Los Alamitos High,All,All,TA,756,736,97.4,542,73.6,305,41.4,317,43.1,5,0.7,0,0,3,0.4,0,0,0,0,12,1.6,0,0
+130765,92703,2019-20,S,30,76893,Orange,SBE - Magnolia Science Academy Santa Ana,Magnolia Science Academy Santa Ana,All,All,TA,26,25,96.2,25,100,4,16,8,32,0,0,0,0,0,0,0,0,0,0,1,3.8,0,0
