@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Jekyll
-_site
+_site/
