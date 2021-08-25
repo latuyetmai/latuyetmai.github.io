@@ -14,7 +14,9 @@ bluevioletff69b49cf-->
 
 Hello!
 
-Welcome to my Data Science portfolio. I am currently a Data Science Graduate Student (MIDS) and also a Teaching Assitant for the Statistics for Data Science Course at UC Berkeley. Most of the project topics in this porfolio were come up from my own ideas and originated from the MIDS program requirements.  
+Welcome to my Data Science portfolio. I am currently a Data Science Graduate Student (MIDS) and also a Teaching Assitant for the Statistics for Data Science Course at UC Berkeley. My goals when building these projects are offering helpful insights to readers. 
+
+Any recommendations to the projects are very welcome. You could reach me on [LinkedIn](https://www.linkedin.com/in/latuyetmai/) or email me at mai.la@berkeley.edu
 
 <br>
 
@@ -27,6 +29,6 @@ Welcome to my Data Science portfolio. I am currently a Data Science Graduate Stu
 |     Instrument API   Server, Streaming & Assemble Data Pipeline     |     Docker<br>Kafka<br>Flask<br>Spark<br>Python<br>Apache Bench<br>Presto<br>Hadoop           |             Understanding   User Behavior: Game API           |
 |                 Data Engineering:   ETL Data Pipeline               |                        Docker<br>Kafka<br>Spark<br>Python<br>Hadoop                           |             Tracking User   Activity: Exams Taking            |
 |                             Data Analysis                           |                                   SQL<br>BigQuery<br>Python                                   |      San Francisco   Bike Share: Business Recommendations     |
-|                             Data Analysis                           |                                             Python                                            |      Real Estate and   Academic Performance in Los Angeles    |
+|                             Data Analysis                           |                                             Python                                            |      [Real Estate and   Academic Performance in Los Angeles](https://github.com/latuyetmai/mla-folio/tree/projects/Analysis_Housing_n_School)    |
 |                           Data   Parsing                            |                                             Python                                            |              [Clinical Disease:   Dangerous Mutations](https://github.com/latuyetmai/mla-folio/tree/projects/Parsing_Dangerous_Mutations)            |
 |                  Object Oriented   Programing (OOP)                 |                                             Python                                            |                  [Game Design:   Kwaii Lottery](https://github.com/latuyetmai/mla-folio/tree/projects/OOP_Python_Game_Kawaii_Lottery)                 |
