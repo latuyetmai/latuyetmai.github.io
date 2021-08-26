@@ -1,0 +1,51 @@
+"","county","state","county_fips_code","jun21_mobility"
+"1","Baldwin County","Alabama","01003",0.277333333333333
+"2","Anchorage","Alaska","02020",0.105
+"3","Coconino County","Arizona","04005",0.233
+"4","Garland County","Arkansas","05051",0.156666666666667
+"5","San Francisco County","California","06075",-0.391666666666667
+"6","Larimer County","Colorado","08069",0.00833333333333333
+"7","New London County","Connecticut","09011",0.0556666666666667
+"8","Sussex County","Delaware","10005",0.444333333333333
+"9","Miami-Dade County","Florida","12086",-0.151333333333333
+"10","Fulton County","Georgia","13121",-0.165
+"11","Honolulu County","Hawaii","15003",-0.156666666666667
+"12","Ada County","Idaho","16001",0.00633333333333333
+"13","Cook County","Illinois","17031",-0.071
+"14","Marion County","Indiana","18097",-0.0666666666666667
+"15","Linn County","Iowa","19113",0.0816666666666667
+"16","Sedgwick County","Kansas","20173",0.00266666666666667
+"17","Jefferson County","Kentucky","21111",-0.0963333333333333
+"18","Orleans Parish","Louisiana","22071",-0.190666666666667
+"19","Franklin County","Maine","23007",0.175666666666667
+"20","Anne Arundel County","Maryland","24003",-0.0686666666666667
+"21","Suffolk County","Massachusetts","25025",-0.204666666666667
+"22","Wayne County","Michigan","26163",-0.04
+"23","Hennepin County","Minnesota","27053",-0.0736666666666667
+"24","Harrison County","Mississippi","28047",0.101
+"25","St. Louis","Missouri","29510",0.00266666666666667
+"26","Gallatin County","Montana","30031",0.24
+"27","Douglas County","Nebraska","31055",0.0233333333333333
+"28","Clark County","Nevada","32003",-0.044
+"29","Grafton County","New Hampshire","33009",0.172666666666667
+"30","Atlantic County","New Jersey","34001",0.0936666666666667
+"31","Bernalillo County","New Mexico","35001",-0.0696666666666667
+"32","New York County","New York","36061",-0.424333333333333
+"33","Buncombe County","North Carolina","37021",-0.012
+"34","Cass County","North Dakota","38017",0.01
+"35","Cuyahoga County","Ohio","39035",-0.046
+"36","Oklahoma County","Oklahoma","40109",-0.0343333333333333
+"37","Multnomah County","Oregon","41051",-0.177333333333333
+"38","Philadelphia County","Pennsylvania","42101",-0.154666666666667
+"39","Providence County","Rhode Island","44007",-0.0516666666666667
+"40","Charleston County","South Carolina","45019",-0.01
+"41","Minnehaha County","South Dakota","46099",0.116666666666667
+"42","Shelby County","Tennessee","47157",-0.0616666666666667
+"43","Bexar County","Texas","48029",-0.065
+"44","Salt Lake County","Utah","49035",-0.066
+"45","Washington County","Vermont","50023",-0.039
+"46","James City County","Virginia","51095",0.309666666666667
+"47","King County","Washington","53033",-0.153666666666667
+"48","Kanawha County","West Virginia","54039",-0.071
+"49","Columbia County","Wisconsin","55021",0.399666666666667
+"50","Park County","Wyoming","56029",0.971666666666667
