@@ -1,0 +1,240 @@
+---
+title: 'Lab 1: Did Democratic voters or Republican voters report experiencing more
+  difficulty voting in the 2020 election?'
+author: "Catherine Tsai, Mai La"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+  word_document: default
+---
+
+```{r load packages, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(haven)
+library(rcompanion)
+library(knitr)
+library(tidyr)
+
+```
+
+```{r include=FALSE}
+# r setting
+theme_set(theme_light())
+knitr::opts_chunk$set(tidy.opts=list(width.cutoff=60), tidy = TRUE)
+```
+
+```{r message=FALSE, warning=TRUE, include=FALSE}
+election <- read_dta("anes_timeseries_2020_stata_20210324.dta")
+```
+
+## Importance and Context
+
+Elections are a competitive and cutthroat affair. The US has not witnessed a "landslide" Presidential election since Bill Clinton in the early 1990's. As a two Political Party system, Democrats and Republicans alike use every tactic possible to turn gain a slight edge against the competition. The balance of power at times sits in the hands of very few. In the case of [Georgia's](https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_Georgia) electoral votes less than 12 thousand votes (out of 5 million) allowed a 0.23% margin and give 16 electoral votes to Biden showing that small differences can actually effect Election results.
+
+In addition, the 2020 Elections were hotly contested with allegations of voter fraud, voter disenfranchisement, and mail fraud which ultimately lead to numerous vote recounts. As of June '21 Arizona is still recounting votes (six months after the Election was certified and the new President sworn in!) More disturbingly, as a result of the increased voter turn out there are new laws being currently proposed in some states to make voting more restrictive (often touted to target Democratic voters).
+
+Putting aside all of the cable news cycle rhetoric of alleged fraud and disenfranchisement, we would like to examine data to help us understand if indeed Democrats were more likely to experience difficulty voting in comparison to Republicans. Discrepancies in voting difficulty does have the potential to change the outcome of elections given the narrow margins in the 2020 election.
+
+## Description of Data
+
+In order to answer the question, we will use data from the 2020 American National Election Studies (ANES). We define a voter using several survey questions pre and post election and exclude any records that indicate the person is a non voter in the 2020 Election (i.e. not registered to vote, do not intend to register to vote, did not vote, etc.).
+
+```{r, include=FALSE}
+## Remove non-voter data
+# Non voter = people who did not register to vote, did not intend to register in pre-election data
+# and did not vote in the post-election data
+# V201008   PRE: WHERE IS R REGISTERED TO VOTE (PREELECTION)
+# V201008 = 3 means R had not registered to vote in the pre election interview
+# V201019   PRE: DOES R INTEND TO REGISTER TO VOTE
+# V201019 = 2 means R did not intend to register to vote in the pre election interview
+#V202123 POST: MAIN REASON R DID NOT VOTE
+# V202123 >= 1 means R did not vote in the post election data
+
+election <- election %>%
+  filter(!(V202123 >= 1 & V201008==3 & V201019 == 2))
+
+# Sample size after removing non-voter
+nrow(election)
+```
+
+To determine if a voter is identified as a Democrat or Republican, we identified party affiliation from pre election survey data. In particular, this study uses the Political party variable with the most number of records for Republican and Democrats because it also includes leaning party information. The data classifies left leaning as Democrats while right leaning as Republicans. Responses that could not be classified into Democrat or Republican (such as Independent and or "do not know" were excluded from our analysis). 
+
+```{r, include=FALSE}
+## Define Democratic voters & republican voters
+# V201231x    PRE: SUMMARY: PARTY ID (including party registration & party lean data - pre election)
+# V201231x = 1 - 3 means democrat, V201231x = 5 - 7 means republican 
+election <- election %>%
+  mutate(
+    party = case_when(
+      election$V201231x >= 1 & election$V201231x <= 3 ~ 'Democrat',
+      election$V201231x >= 5 & election$V201231x <= 7 ~ 'Republican',
+      election$V201231x == 4 ~ 'Others')
+    )
+```
+
+Additionally, we will use "voting difficulty" data from a scale of "not difficult at all" to "extremely difficult". Although there are many different questions in our data set specifying difficulties (problems registering, ballot machine confusion, etc.), we selected the aggregated "voting difficulty data". The specific voter difficult questions were too granular and did give a better understanding of the question overall given that even at the aggregated level only 11% (or 730) observations indicated any voter difficulty. 89% of respondents did not have any difficulty among both Democrats and Republicans stating any voting difficulty. To understand the issue more holistically and to maintain statistical power, we move forward with the aggregated "voting difficulty" data after removing data for people who refused to answer, inapplicable, no information, or NULL data.
+
+```{r, include=FALSE}
+## Define difficulty in voting
+# V202119   POST: How difficult was it for R to vote
+election <- election %>%
+  mutate(
+    difficulty = case_when(
+      election$V202119 == 1 ~ 'Not difficult',
+      election$V202119 == 2 ~ 'Little difficult',
+      election$V202119 == 3 ~ 'Moderately difficult',
+      election$V202119 == 4 ~ 'Very difficult',
+      election$V202119 == 5 ~ 'Extremely difficult',
+      election$V202119 <= -1 ~ 'Others')
+  )
+
+election$difficulty <- factor(election$difficulty, 
+                              levels = c("Not difficult", "Little difficult",
+                                         "Moderately difficult","Very difficult", "Extremely difficult"))
+```
+
+```{r , include=FALSE}
+# subset data to valid values
+difficult_party <- election %>% 
+  filter(party == "Democrat" | party == "Republican") %>%
+  filter(difficulty != "Others" & !is.na(difficulty))
+
+# Sample size of subset data
+nrow(difficult_party)
+```
+
+```{r echo=FALSE}
+# Find how many reports difficulty in the data set
+election <- election %>%
+  mutate(
+    difficulty_group = case_when(
+      election$V202119 == 1 ~ 'Not Difficult',
+      election$V202119 >= 2 & election$V202119 <= 5 ~ 'Difficult',
+      election$V202119 <= -1 ~ 'Others')
+  )
+
+table1 <- election %>%
+            filter(difficulty_group != 'Others') %>%
+            group_by(difficulty_group) %>%
+            summarize(sample_size = n()) %>%
+            mutate(percent = round(sample_size*100/sum(sample_size),2))
+
+
+colnames(table1) <- c("Difficult/Not Difficult", "Number of Samples", "% of Total")
+knitr::kable(table1, caption = "Summary of Voter Difficulty",
+             align = "c")
+
+```
+
+After filtering and combining the "voting difficulty" and "voter party" data, we will proceed with 3,130 Democrat and 2,702 Republican observations (total 5,832) as our dataset. 
+
+```{r echo=FALSE, paged.print=FALSE}
+# Sample size of two groups - Democrat & Republican
+table2 <- difficult_party %>%
+  group_by(party) %>%
+  summarize(sample_size = n())
+
+# Display table
+colnames(table2) <- c("Party", "Number of Samples")
+knitr::kable(table2, caption = "Democrat & Republicans Summary of Final Sample Data",
+             align = "c")
+```
+
+The distribution between Democrats and Republicans in voting difficulty are similar. There are more observations among Republicans indicating "very" and "extremely" difficult compared to Democrats. Meaning, for those that experienced any difficulty, a higher level of difficulty was actually reported more frequently from Republicans in our sample. Again, the overall group of people that experienced difficulty was small relative to the total number of observations.
+
+```{r, echo=FALSE, fig.align='center', fig.height=4, fig.width=8}
+difficult_bar <- difficult_party %>% 
+  ggplot() + 
+  aes(x = difficulty, fill = party) + 
+  geom_bar(position = 'dodge') + 
+  labs(
+    title    = 'Difficulty experienced in voting among Democrats and Republican',
+    subtitle = 'Most people did not experience voting difficulty', 
+    x        = 'Voting Difficult Experienced',
+    y        = 'Count of Observations', 
+    fill     = 'Political Party'
+  ) +
+  scale_fill_manual(values = c("blue", "red")) +
+  theme_light()
+
+difficult_bar
+```
+
+
+## Most appropriate test 
+
+Given the nature of the question and variables, the most appropriate statistical test is the Wilcoxin Rank Sum (Mann-Whitney) test.
+
+* Voting Difficulty: Data is ordinal is nature. 
+  - "Very difficult" can be classified as greater than "not difficult" but the magnitude of "very difficult" versus "not difficult" is not uniform across different respondents and therefore is not a metric measure. 
+  - We can only rank the answers provided by respondents. 
+* Two Samples: The question of interest compares two groups 
+  - Democrats and Republican voter differences by the outcome of interest (voting difficulty)
+  - The study compares different groups: Republican and Democrats and they are independent of each other (not paired).
+  
+We will use a two tailed test in order to understand any difference in voting difficult between the groups - either more or less difficult relative to each group. We do not want to ignore any effect that would be statistically notable in one direction (in favor of another). 
+  
+Due to the ordinal "voter difficulty" ranking, the Wilcoxin Rank Sum (Mann-Whitney) statistical test will compare and comment on the differences between the distribution of "voting difficulty" across Democrat and Republican populations. The ordinal nature of the "voting difficulty" responses will not allow the test to comment on actual difficulty in any type of metric quantifiable manner and is only the perception of difficulty by individuals.
+
+**Assumptions:**
+
+* Ordinal Scale
+  - Data is of an ordinal nature (see above)
+* Independent and Identically Distributed (IID)
+  - The perception of "difficulty" is different across respondents. Example, the same "voting machine error" occurring at the same time, place, and circumstance can be receive different "voting difficulty ratings" by two different respondents.
+    - There is no standard among the difficulty rankings among different respondents as these are self reported
+  - Voting methods are different across the U.S. Some areas could have more convenient methods readily available (mail in, early voting, voting sites in close proximity, longer voting hours). Voting circumstances will be different among respondents and will shape the responses accordingly.
+    - There is not specific standard baseline or expectation for voting standard among the respondent and this will create bias in the final result.
+  - The target population is a cross section of 231 million US citizens age 18 or order
+  - 2020 ANES sample is based on a random draw from US across 50 states with equal probability
+    -Given the target population for the ANES study and that respondents are randomly drawn from states with equal probability, the sample methodology design accounts for sample bias across states.
+
+**Hypothesis:**
+
+**Null Hypothesis:** The probability that Democrats (D) reporting more difficulty than Republicans (R) **is equal to** the probability that Republicans (R) reporting more difficulty than Democrats (D)
+$$H_o: P(D>R) = P(D<R)$$
+
+**Alternative Hypothesis:** The probability that Democrats (D) reporting more difficulty than Republicans (R) **is not equal to** the probability that Republicans (R) reporting more difficulty than Democrats (D)
+
+$$H_a: P(D>R) \neq P(D<R)$$
+**Rejection Criteria:**
+
+$$p-value < 0.05$$
+
+Using a two tailed Wilcoxin Rank Sum (Mann-Whitney) test with p-value of 0.05, we proceed to conduct the test.
+
+## Test, results and interpretation
+
+```{r echo=TRUE}
+wilcox.test(as.numeric(difficulty) ~ party, data = difficult_party)
+```
+After conducting the test, the p-value at 0.0035 below 0.05 indicates there is statistical significance to show that Republican and Democratic voters experienced different amounts of difficulty voting in the 2020 election and therefore reject the null hypothesis.
+
+In order to understand practical significance we calculate *effect size correlation* and the median of difficulty ranking to understand the differences between Democrat and Republican voting difficulty.
+
+
+```{r include=FALSE}
+# effect size correlation
+wilcoxonR(x = as.numeric(difficult_party$difficulty),
+          g = difficult_party$party)
+# r: 0.0382 
+```
+
+```{r include=FALSE}
+# Find the median value of two groups for difficulty level from rank 1 to 5 (not difficult to extremely difficult)
+diff_democrat <- difficult_party %>% 
+  filter(party == "Democrat")
+
+diff_republican <- difficult_party %>% 
+  filter(party == "Republican")
+
+(median(as.numeric(diff_democrat$difficulty)))
+median(as.numeric(diff_republican$difficulty))
+# median of difficulty level for democrat: 1
+# median of difficulty level for republican: 1
+```
+
+After calculating, we find that the *effect size correlation* at 0.0382 is quite small and would conclude that although the test is statistically significant showing that the distribution of Democrats and Republican are different, the effect of actual perceived difficulty is quite small between the two groups. The median value of difficulty ranking is also the same between the two groups (at 1 or not experienced any difficulty). The statistical significant result is most likely because of the big sample size and not necessary meaningful. 
+
+From a practical perspective, comparing the effect size correlation against large scale allegations of voting "irregularities" touted in political theater, the study finds the allegations are not rooted in the reality of the responses. Also, as mentioned above in the study assumptions, the perception of difficult is not a concrete metric measurement and with a small effect size from this sample that could very much be a different result given a different sample. By and large voting difficulty (although present) is not rampant and does not have very big effect on U.S. Election integrity.
