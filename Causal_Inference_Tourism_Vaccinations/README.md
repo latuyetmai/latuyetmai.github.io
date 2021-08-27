@@ -3,8 +3,9 @@
 
 ## Overview
 
-In this lab, we explore the effects of vaccination rates and other variables on travel in the form of Google community mobility data in Jun 2021. Utilizing the skills we learned from Statistics, we go through an exploratory data analysis, reduce the variables to only those of interest, and create models to be able to  how our variables effect the outcome variable. See below for a framework of how to interact with this repository. 
+In this project, we explore the effects of vaccination rates and other variables on travel in the form of Google community mobility data in Jun 2021. Utilizing the skills we learned from Statistics, we go through an exploratory data analysis, reduce the variables to only those of interest, and create models to be able to answer how our input variables affect the outcome variable. 
 
+See below for a framework of how to interact with this repository. 
 
 ## Project Organization
 
