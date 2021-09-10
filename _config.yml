@@ -4,3 +4,5 @@
 #logo: ./images/BerkeleyBackground.jpg
 permalink: /blog/:year/:month/:day/:title
 markdown: kramdown
+
+theme: jekyll-theme-minimal
