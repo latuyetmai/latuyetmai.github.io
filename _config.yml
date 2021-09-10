@@ -5,4 +5,4 @@
 permalink: /blog/:year/:month/:day/:title
 markdown: kramdown
 
-theme: jekyll-theme-dinky
+theme: jekyll-theme-minimal
