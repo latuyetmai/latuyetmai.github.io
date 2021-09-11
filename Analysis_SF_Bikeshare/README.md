@@ -11,3 +11,7 @@ This project has been broken down into 3 parts:
 - In Part 2, I will query using the Linux command line from my virtual machine in the cloud.
 
 - In Part 3, I will query from a Jupyter Notebook, save the results into Pandas, and present a report enhanced by Pandas output tables and perform data visualizations using Seaborn / Matplotlib.
+
+## Files
+
+- Bikeshare_analysis.ipynb: the notebook answers all the business questions and recommendations to Lyft Bay Wheels. 
