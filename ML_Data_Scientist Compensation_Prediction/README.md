@@ -1,5 +1,4 @@
 # Machine Learning: Annual Compensation Prediction for Data Scientist
--------
 
 ## Overview
 
@@ -17,10 +16,7 @@ See below for a framework of how to interact with this repository.
 ## Project Summary
 
 - *Outcome Variable*: in this project, I used the raw data of annual compensation values from 0 - 250,000 USD (continuous scale) for prediction.
-<br>
-
 - *Model Evaluation Objective*: find the best ML model with highest R-squared score, and lowest Root Mean Square Error (RMSE).
-<br>
 
 #### Baseline Model
 - Using Linear Regression with all 75 features for all countries in the dataset. 
@@ -30,12 +26,12 @@ See below for a framework of how to interact with this repository.
 |:------------------|--------------:|------------------:|
 | Linear Regression |     30,144.14 |             0.632 |
 
-<br>
 
 #### Best Model
 - Using XGBoost Regressor with all 75 features for all countries in the dataset. 
 - Best model performance:
-<br>
+
+
 |       Model          | RMSE Test Data | R2 Score Test Data |
 |:---------------------|---------------:|-------------------:|
 | XGBoosting Regressor |      26,919.16 |              0.714 |
@@ -46,7 +42,6 @@ See below for a framework of how to interact with this repository.
 |:---------------------|--------------:|------------------:|:--------------------------------------------------------------------------------------------|
 | XGBoosting Regressor |     29,166.97 |             0.656 | max_depth=10, n_estimators=150, <br>colsample_bytree=0.5, lambda=100, <br>learning_rate=0.1 |
 
-<br>
 
 ####  Model Comparison
 I've also ran different models and evaluated their performance, summary of these models with hyperparameters tuning are as following. 
@@ -65,7 +60,7 @@ I've also ran different models and evaluated their performance, summary of these
 | Regression with PCA                     |     31,449.84 |             0.600 | n_components = 50                                                                                             |
 | XGBoosting Regressor with PCA           |     30,720.91 |             0.618 | n_components = 50, max_depth=3, <br>colsample_bytree=0.3, lambda=1,   <br>learning_rate=0.3, n_estimators=150 |
 | Regression with Top n Important Features |     30,311.20 |             0.628 | n_features=50                                                                                                 |
-<br>
+
 
 #### Project Limitation
 - Subsetting the data for United States only was performed, however, the predicting power - RMSE and R2 score performance was much lower than using all countries. The limitation was due to lacking of several key features (like states, industry information, the number of working hours weekly in the dataset, and low sample counts) which could result in high bias and underfitting in our models for US data only.  
