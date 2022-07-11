@@ -1,6 +1,5 @@
 
 # Data Analysis: Home Price & Academic Performance In Los Angeles
--------
 
 ## Overview
 
@@ -11,11 +10,11 @@ See below for a framework of how to interact with this repository.
 ## Project Organization
 
     │
-    ├── README.md                   <- The top-level README describing the project aims
+    ├── README.md               <- The top-level README describing the project aims
     │
-    ├── data                        <- All the post-processed data are stored in this folder.
+    ├── data                    <- All the post-processed data are stored in this folder.
     │
-    ├── notebooks                   <- .ipynb notebooks used for EDA, feature engineering and merging different different datasets
+    ├── notebooks               <- .ipynb notebooks used for EDA, feature engineering and merging different different datasets
     │
     ├── Report.pdf	            <- Main data analysis report file
     │
