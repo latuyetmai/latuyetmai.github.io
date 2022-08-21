@@ -1,5 +1,4 @@
 # Assemble Pipeline: Understanding User Behavior
----------
 
 In this project, I'm working for a game development company and interested in tracking various user events from their mobile app when they are playing our game online (i.e. `buy a sword`, `join guild`). Each event has metadata characteristic (i.e., sword type, guild name, etc). My goal is to build and pump a complete data pipeline end-to-end, and explain the pipeline in the project report.
 
@@ -19,4 +18,4 @@ In this project, I'm working for a game development company and interested in tr
 - **docker-compose.yml** inlcude all docker containers required for running this project
 - **game_api.py** Flask app for building an API server for the game and sending event logs (streaming data) to Kafka 
 - **generate_data.sh** Generate GET and POST requests/ streaming events using Apache Bench
-- **write_stream** Consume the messages from Kafka, filter events, transform and land the data in Hadoop (HDFS)
+- **write_stream.py** Consume the messages from Kafka, filter events, transform and land the data in Hadoop (HDFS)
