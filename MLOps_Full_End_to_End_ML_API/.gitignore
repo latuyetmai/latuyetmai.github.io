@@ -1,0 +1,5 @@
+solution
+mlapi/distilbert-base-uncased-finetuned-sst2/*.bin
+mlapi/distilbert-base-uncased-finetuned-sst2/*.json
+mlapi/distilbert-base-uncased-finetuned-sst2/*.txt
+mlapi/.pytest_cache
