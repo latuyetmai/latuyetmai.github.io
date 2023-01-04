@@ -14,7 +14,7 @@ bluevioletff69b49cf-->
 
 Hello!
 
-Welcome to my portfolio. I am currently a Data Science Graduate Student (MIDS) and also a Teaching Assitant for the Statistics for Data Science Course at UC Berkeley. My goals when building these projects are deriving insights from the data and level up essential skills to be successful in Tech. 
+Welcome to my portfolio. I am currently a Data Science Graduate Student (MIDS) at UC Berkeley. My goals when building these projects are deriving insights from the data and level up essential skills to be successful in Tech. 
 
 Any recommendations to the projects are very welcome. You could reach me on [LinkedIn](https://www.linkedin.com/in/latuyetmai/) or email me at mai.la@berkeley.edu
 
