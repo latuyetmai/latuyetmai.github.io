@@ -34,17 +34,6 @@ It achieves the following results on the evaluation set:
 - Loss: 0.2817
 - Accuracy: 0.9025
 
-## Model description
-
-More information needed
-
-## Intended uses & limitations
-
-More information needed
-
-## Training and evaluation data
-
-More information needed
 
 ## Training procedure
 
